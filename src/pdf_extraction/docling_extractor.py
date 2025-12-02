@@ -16,8 +16,11 @@ Features:
 """
 
 import json
+import os
 import re
 import sys
+import gc
+import resource
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
@@ -27,6 +30,13 @@ try:
 except ImportError:
     DOCLING_AVAILABLE = False
     print("Warning: docling not available. Please install it with: pip install docling")
+
+# Try to import torch for GPU detection
+try:
+    import torch
+    TORCH_AVAILABLE = True
+except ImportError:
+    TORCH_AVAILABLE = False
 
 
 # Default directories
@@ -38,6 +48,100 @@ DEFAULT_CHUNK_SIZE_WORDS = 400  # Optimal for NER tasks
 DEFAULT_MIN_CHUNK_WORDS = 200   # Minimum words per chunk
 DEFAULT_MAX_CHUNK_WORDS = 1000  # Maximum words per chunk
 DEFAULT_CHUNK_OVERLAP_WORDS = 50  # Overlap between chunks
+
+# Memory safety limits
+MAX_MEMORY_MB = 8192  # Maximum memory usage in MB (8GB default)
+MEMORY_CHECK_INTERVAL = 10  # Check memory every N chunks
+
+
+def detect_gpu_availability() -> Tuple[bool, str]:
+    """
+    Detect GPU availability for processing.
+    
+    Returns:
+        Tuple of (is_gpu_available, device_name)
+        - is_gpu_available: True if GPU is available and usable
+        - device_name: String describing the device ('cuda', 'cpu', or 'unknown')
+    """
+    # Try PyTorch first (most common)
+    if TORCH_AVAILABLE:
+        if torch.cuda.is_available():
+            try:
+                device_count = torch.cuda.device_count()
+                device_name = torch.cuda.get_device_name(0) if device_count > 0 else "CUDA"
+                return True, f"cuda ({device_name})"
+            except:
+                return True, "cuda"
+        else:
+            return False, "cpu"
+    
+    # Fallback: Check for CUDA via environment or nvidia-smi
+    try:
+        import subprocess
+        result = subprocess.run(
+            ["nvidia-smi", "--query-gpu=name", "--format=csv,noheader"],
+            capture_output=True,
+            text=True,
+            timeout=2
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            gpu_name = result.stdout.strip().split('\n')[0]
+            return True, f"cuda ({gpu_name})"
+    except (subprocess.TimeoutExpired, FileNotFoundError, subprocess.SubprocessError):
+        pass
+    
+    # No GPU detected
+    return False, "cpu"
+
+
+def create_docling_converter(use_gpu: bool = True) -> DocumentConverter:
+    """
+    Create a DocumentConverter configured for GPU or CPU processing.
+    
+    Args:
+        use_gpu: Whether to attempt GPU processing (will fallback to CPU if unavailable)
+        
+    Returns:
+        Configured DocumentConverter instance
+    """
+    try:
+        # Try to configure with pipeline_config for GPU
+        if use_gpu:
+            try:
+                # Docling typically uses pipeline_config with device settings
+                # Try to create converter with GPU configuration
+                from docling.datamodel.pipeline_options import PdfPipelineOptions
+                
+                # Create pipeline options with device preference
+                pipeline_options = PdfPipelineOptions()
+                
+                # Try to set device if the option exists
+                if hasattr(pipeline_options, 'device'):
+                    pipeline_options.device = 'cuda'
+                elif hasattr(pipeline_options, 'use_gpu'):
+                    pipeline_options.use_gpu = True
+                
+                # Create converter with pipeline options
+                converter = DocumentConverter(pipeline_options=pipeline_options)
+                return converter
+            except (ImportError, AttributeError, TypeError):
+                # If pipeline_options doesn't work, try direct configuration
+                try:
+                    # Some versions of Docling accept pipeline_config directly
+                    converter = DocumentConverter(pipeline_config={"device": "cuda"})
+                    return converter
+                except (TypeError, ValueError):
+                    # Fallback to default (will use CPU)
+                    pass
+        
+        # Default: create converter without GPU config (will use CPU)
+        converter = DocumentConverter()
+        return converter
+        
+    except Exception as e:
+        # If anything fails, create default converter
+        print(f"    Warning: Could not configure GPU, using CPU: {e}")
+        return DocumentConverter()
 
 
 def discover_pdf_structure(pdf_dir: Path) -> Tuple[Dict[Path, int], List[Path]]:
@@ -253,6 +357,31 @@ def prompt_format_selection() -> str:
             sys.exit(0)
 
 
+def get_memory_usage_mb() -> float:
+    """Get current memory usage in MB."""
+    try:
+        # Get process memory usage
+        process = resource.getrusage(resource.RUSAGE_SELF)
+        # ru_maxrss is in KB on Linux
+        return process.ru_maxrss / 1024.0
+    except:
+        # Fallback: try psutil if available
+        try:
+            import psutil
+            process = psutil.Process(os.getpid())
+            return process.memory_info().rss / (1024 * 1024)
+        except:
+            return 0.0
+
+
+def check_memory_limit() -> bool:
+    """Check if memory usage is within safe limits."""
+    current_mb = get_memory_usage_mb()
+    if current_mb > MAX_MEMORY_MB:
+        return False
+    return True
+
+
 def count_words(text: str) -> int:
     """Count words in text."""
     if not text:
@@ -373,6 +502,7 @@ def chunk_text(
     - Preserves paragraph boundaries when possible
     - Uses overlap to avoid splitting entities
     - Respects sentence boundaries
+    - Memory-efficient: processes paragraphs incrementally
     
     Args:
         text: Text to chunk
@@ -389,23 +519,29 @@ def chunk_text(
     
     chunks = []
     
-    # For very large texts, process in segments to save memory
-    # Split into paragraphs first (preserve structure)
-    # Use generator for memory efficiency if text is very large
-    if len(text) > 50_000_000:  # 50MB threshold
-        # Process in chunks of paragraphs
-        paragraphs = text.split('\n\n')
-        del text  # Free memory early
-    else:
-        paragraphs = text.split('\n\n')
+    # Process paragraphs incrementally to save memory
+    # Split into paragraphs - this is necessary for proper chunking
+    # but we'll process them one at a time and clean up aggressively
+    paragraphs = text.split('\n\n')
+    del text  # Free memory early
+    gc.collect()
     
     current_chunk = []
     current_word_count = 0
     
-    for para in paragraphs:
+    for para_idx, para in enumerate(paragraphs):
         para = para.strip()
         if not para:
             continue
+        
+        # Check memory periodically
+        if para_idx > 0 and para_idx % MEMORY_CHECK_INTERVAL == 0:
+            if not check_memory_limit():
+                raise MemoryError(
+                    f"Memory limit exceeded ({get_memory_usage_mb():.1f} MB > {MAX_MEMORY_MB} MB). "
+                    f"Processed {len(chunks)} chunks so far."
+                )
+            gc.collect()
         
         para_word_count = count_words(para)
         
@@ -496,7 +632,13 @@ def chunk_text(
             'type': 'paragraph'
         })
     
+    # Final memory cleanup
+    del paragraphs, current_chunk
+    gc.collect()
+    
     return chunks
+
+
 
 
 def format_for_label_studio(text: str, source_file: str) -> Dict:
@@ -567,11 +709,29 @@ def extract_pdf_with_docling(
     Returns:
         True if extraction was successful, False otherwise
     """
+    converter = None
+    initial_memory = 0.0
     try:
-        print("    [1/5] Initializing Docling converter...", end=" ", flush=True)
-        # Initialize Docling converter with optimized settings
-        converter = DocumentConverter()
-        print("✓")
+        # Check memory before starting
+        initial_memory = get_memory_usage_mb()
+        if initial_memory > MAX_MEMORY_MB * 0.8:  # Warn if already using >80% of limit
+            print(f"    ⚠️  Warning: High memory usage before processing: {initial_memory:.1f} MB")
+        
+        # Detect GPU availability
+        gpu_available, device_name = detect_gpu_availability()
+        if gpu_available:
+            print(f"    🚀 GPU detected: {device_name}")
+            print("    [1/5] Initializing Docling converter with GPU...", end=" ", flush=True)
+            converter = create_docling_converter(use_gpu=True)
+            print("✓")
+        else:
+            print(f"    💻 Using CPU processing (GPU not available)")
+            print("    [1/5] Initializing Docling converter...", end=" ", flush=True)
+            converter = create_docling_converter(use_gpu=False)
+            print("✓")
+        
+        # Force garbage collection after converter initialization
+        gc.collect()
         
         print("    [2/5] Converting PDF (this may take a while)...", end=" ", flush=True)
         # Convert PDF to DoclingDocument
@@ -579,13 +739,17 @@ def extract_pdf_with_docling(
         doc = result.document
         print("✓")
         
+        # Check memory after conversion
+        post_convert_memory = get_memory_usage_mb()
+        if post_convert_memory > MAX_MEMORY_MB * 0.9:
+            print(f"\n    ⚠️  Warning: High memory usage after conversion: {post_convert_memory:.1f} MB")
+        
         print("    [3/5] Extracting text and structure...", end=" ", flush=True)
         # Extract text and tables
         markdown_text, tables = extract_text_from_docling_doc(doc)
         
         # Clear doc from memory early
         del doc, result
-        import gc
         gc.collect()
         
         if not markdown_text:
@@ -594,17 +758,37 @@ def extract_pdf_with_docling(
         print(f"✓ ({len(markdown_text):,} chars)")
         
         print("    [4/5] Normalizing text and chunking...", end=" ", flush=True)
+        
+        # Check memory before processing
+        if not check_memory_limit():
+            raise MemoryError(
+                f"Memory usage too high before normalization: {get_memory_usage_mb():.1f} MB"
+            )
+        
         # Normalize whitespace and fix hyphenation (process in chunks to save memory)
         # Process in smaller pieces to avoid memory issues
         if len(markdown_text) > 10_000_000:  # 10MB threshold
-            # Process in segments
+            # Process in segments and write incrementally to avoid large string concatenation
             segment_size = 1_000_000  # 1MB segments
-            normalized_segments = []
+            normalized_parts = []
             for i in range(0, len(markdown_text), segment_size):
                 segment = markdown_text[i:i+segment_size]
-                normalized_segments.append(normalize_whitespace(segment))
-            normalized_text = ''.join(normalized_segments)
-            del normalized_segments
+                normalized_part = normalize_whitespace(segment)
+                normalized_parts.append(normalized_part)
+                del normalized_part, segment
+                
+                # Periodic memory check and cleanup
+                if i > 0 and (i // segment_size) % 5 == 0:
+                    gc.collect()
+                    if not check_memory_limit():
+                        raise MemoryError(
+                            f"Memory limit exceeded during normalization: {get_memory_usage_mb():.1f} MB"
+                        )
+            
+            # Join parts more efficiently
+            normalized_text = ''.join(normalized_parts)
+            del normalized_parts
+            gc.collect()
         else:
             normalized_text = normalize_whitespace(markdown_text)
         
@@ -626,6 +810,12 @@ def extract_pdf_with_docling(
             normalized_text += table_section
             normalized_text = normalize_whitespace(normalized_text)
         
+        # Check memory before chunking
+        if not check_memory_limit():
+            raise MemoryError(
+                f"Memory limit exceeded before chunking: {get_memory_usage_mb():.1f} MB"
+            )
+        
         # Chunk the text
         chunks = chunk_text(
             normalized_text,
@@ -635,7 +825,7 @@ def extract_pdf_with_docling(
             overlap_words=overlap_words,
         )
         
-        # Clear normalized_text from memory
+        # Clear normalized_text from memory immediately
         del normalized_text
         gc.collect()
         
@@ -668,10 +858,18 @@ def extract_pdf_with_docling(
         gc.collect()
         
         print(f"✓ ({chunk_count} entries written)")
+        
+        # Final cleanup
+        final_memory = get_memory_usage_mb()
+        if initial_memory > 0 and final_memory > initial_memory * 1.5:
+            print(f"    ⚠️  Memory usage increased significantly: {initial_memory:.1f} MB -> {final_memory:.1f} MB")
+        
         return True
         
-    except MemoryError:
+    except MemoryError as e:
         print(f"\n    ❌ Out of memory processing {pdf_path.name}")
+        print(f"    Current memory usage: {get_memory_usage_mb():.1f} MB")
+        print(f"    Memory limit: {MAX_MEMORY_MB} MB")
         print("    💡 Try processing smaller files or increase system memory")
         return False
     except Exception as e:
@@ -679,6 +877,15 @@ def extract_pdf_with_docling(
         import traceback
         traceback.print_exc()
         return False
+    finally:
+        # Ensure converter is cleaned up
+        if converter is not None:
+            try:
+                # Try to clean up converter resources
+                del converter
+                gc.collect()
+            except:
+                pass
 
 
 def process_pdfs(

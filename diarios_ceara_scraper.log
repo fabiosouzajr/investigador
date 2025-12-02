@@ -1,0 +1,1365 @@
+2025-11-28 10:38:54,753 - INFO - Starting Diários Oficiais Ceará Scraper
+2025-11-28 10:39:14,630 - INFO - Mode: year, Value: 2025
+2025-11-28 10:39:14,631 - INFO - Generated 332 dates to process
+2025-11-28 10:39:14,632 - INFO - Created directory: diarios_ceara/2025
+2025-11-28 10:39:14,632 - INFO - Processing date: 20250101
+2025-11-28 10:39:14,944 - INFO - No publications found for date 20250101
+2025-11-28 10:39:14,944 - INFO - Processing date: 20250102
+2025-11-28 10:39:15,000 - INFO - Found 2 files for date 20250102
+2025-11-28 10:39:15,469 - INFO - Successfully downloaded: do20250102p01.pdf
+2025-11-28 10:39:15,979 - INFO - Successfully downloaded: do20250102p02.pdf
+2025-11-28 10:39:15,979 - INFO - Processing date: 20250103
+2025-11-28 10:39:16,077 - INFO - Found 2 files for date 20250103
+2025-11-28 10:39:16,337 - INFO - Successfully downloaded: do20250103p01.pdf
+2025-11-28 10:39:16,639 - INFO - Successfully downloaded: do20250103p02.pdf
+2025-11-28 10:39:16,639 - INFO - Processing date: 20250104
+2025-11-28 10:39:16,690 - INFO - No publications found for date 20250104
+2025-11-28 10:39:16,690 - INFO - Processing date: 20250105
+2025-11-28 10:39:16,735 - INFO - No publications found for date 20250105
+2025-11-28 10:39:16,735 - INFO - Processing date: 20250106
+2025-11-28 10:39:16,784 - INFO - Found 2 files for date 20250106
+2025-11-28 10:39:16,993 - INFO - Successfully downloaded: do20250106p01.pdf
+2025-11-28 10:39:17,483 - INFO - Successfully downloaded: do20250106p02.pdf
+2025-11-28 10:39:17,483 - INFO - Processing date: 20250107
+2025-11-28 10:39:17,563 - INFO - Found 1 files for date 20250107
+2025-11-28 10:39:17,820 - INFO - Successfully downloaded: do20250107p01.pdf
+2025-11-28 10:39:17,820 - INFO - Processing date: 20250108
+2025-11-28 10:39:17,872 - INFO - Found 2 files for date 20250108
+2025-11-28 10:39:18,120 - INFO - Successfully downloaded: do20250108p01.pdf
+2025-11-28 10:39:18,346 - INFO - Successfully downloaded: do20250108p02.pdf
+2025-11-28 10:39:18,346 - INFO - Processing date: 20250109
+2025-11-28 10:39:18,394 - INFO - Found 2 files for date 20250109
+2025-11-28 10:39:18,608 - INFO - Successfully downloaded: do20250109p01.pdf
+2025-11-28 10:39:18,807 - INFO - Successfully downloaded: do20250109p02.pdf
+2025-11-28 10:39:18,808 - INFO - Processing date: 20250110
+2025-11-28 10:39:18,886 - INFO - Found 2 files for date 20250110
+2025-11-28 10:39:19,087 - INFO - Successfully downloaded: do20250110p01.pdf
+2025-11-28 10:39:19,369 - INFO - Successfully downloaded: do20250110p02.pdf
+2025-11-28 10:39:19,369 - INFO - Processing date: 20250111
+2025-11-28 10:39:19,420 - INFO - No publications found for date 20250111
+2025-11-28 10:39:19,420 - INFO - Processing date: 20250112
+2025-11-28 10:39:19,478 - INFO - No publications found for date 20250112
+2025-11-28 10:39:19,479 - INFO - Processing date: 20250113
+2025-11-28 10:39:19,561 - INFO - Found 2 files for date 20250113
+2025-11-28 10:39:19,811 - INFO - Successfully downloaded: do20250113p01.pdf
+2025-11-28 10:39:20,144 - INFO - Successfully downloaded: do20250113p02.pdf
+2025-11-28 10:39:20,144 - INFO - Processing date: 20250114
+2025-11-28 10:39:20,200 - INFO - Found 5 files for date 20250114
+2025-11-28 10:39:20,404 - INFO - Successfully downloaded: do20250114p01.pdf
+2025-11-28 10:39:20,674 - INFO - Successfully downloaded: do20250114p02.pdf
+2025-11-28 10:39:20,979 - INFO - Successfully downloaded: do20250114p03.pdf
+2025-11-28 10:39:21,164 - INFO - Successfully downloaded: do20250114p04.pdf
+2025-11-28 10:39:21,368 - INFO - Successfully downloaded: do20250114p05.pdf
+2025-11-28 10:39:21,368 - INFO - Processing date: 20250115
+2025-11-28 10:39:21,445 - INFO - Found 2 files for date 20250115
+2025-11-28 10:39:21,679 - INFO - Successfully downloaded: do20250115p01.pdf
+2025-11-28 10:39:21,951 - INFO - Successfully downloaded: do20250115p02.pdf
+2025-11-28 10:39:21,951 - INFO - Processing date: 20250116
+2025-11-28 10:39:22,008 - INFO - Found 2 files for date 20250116
+2025-11-28 10:39:22,235 - INFO - Successfully downloaded: do20250116p01.pdf
+2025-11-28 10:39:22,553 - INFO - Successfully downloaded: do20250116p02.pdf
+2025-11-28 10:39:22,554 - INFO - Processing date: 20250117
+2025-11-28 10:39:22,620 - INFO - Found 2 files for date 20250117
+2025-11-28 10:39:22,837 - INFO - Successfully downloaded: do20250117p01.pdf
+2025-11-28 10:39:23,047 - INFO - Successfully downloaded: do20250117p02.pdf
+2025-11-28 10:39:23,047 - INFO - Processing date: 20250118
+2025-11-28 10:39:23,123 - INFO - No publications found for date 20250118
+2025-11-28 10:39:23,123 - INFO - Processing date: 20250119
+2025-11-28 10:39:23,173 - INFO - No publications found for date 20250119
+2025-11-28 10:39:23,173 - INFO - Processing date: 20250120
+2025-11-28 10:39:23,226 - INFO - Found 1 files for date 20250120
+2025-11-28 10:39:23,492 - INFO - Successfully downloaded: do20250120p01.pdf
+2025-11-28 10:39:23,492 - INFO - Processing date: 20250121
+2025-11-28 10:39:23,618 - INFO - Found 2 files for date 20250121
+2025-11-28 10:39:23,859 - INFO - Successfully downloaded: do20250121p01.pdf
+2025-11-28 10:39:24,078 - INFO - Successfully downloaded: do20250121p02.pdf
+2025-11-28 10:39:24,078 - INFO - Processing date: 20250122
+2025-11-28 10:39:24,124 - INFO - Found 2 files for date 20250122
+2025-11-28 10:39:24,442 - INFO - Successfully downloaded: do20250122p01.pdf
+2025-11-28 10:39:24,731 - INFO - Successfully downloaded: do20250122p02.pdf
+2025-11-28 10:39:24,732 - INFO - Processing date: 20250123
+2025-11-28 10:39:24,800 - INFO - Found 1 files for date 20250123
+2025-11-28 10:39:25,068 - INFO - Successfully downloaded: do20250123p01.pdf
+2025-11-28 10:39:25,068 - INFO - Processing date: 20250124
+2025-11-28 10:39:25,127 - INFO - Found 2 files for date 20250124
+2025-11-28 10:39:25,392 - INFO - Successfully downloaded: do20250124p01.pdf
+2025-11-28 10:39:25,631 - INFO - Successfully downloaded: do20250124p02.pdf
+2025-11-28 10:39:25,631 - INFO - Processing date: 20250125
+2025-11-28 10:39:25,701 - INFO - No publications found for date 20250125
+2025-11-28 10:39:25,701 - INFO - Processing date: 20250126
+2025-11-28 10:39:25,747 - INFO - No publications found for date 20250126
+2025-11-28 10:39:25,747 - INFO - Processing date: 20250127
+2025-11-28 10:39:25,806 - INFO - Found 2 files for date 20250127
+2025-11-28 10:39:26,065 - INFO - Successfully downloaded: do20250127p01.pdf
+2025-11-28 10:39:26,313 - INFO - Successfully downloaded: do20250127p02.pdf
+2025-11-28 10:39:26,313 - INFO - Processing date: 20250128
+2025-11-28 10:39:26,361 - INFO - Found 2 files for date 20250128
+2025-11-28 10:39:26,626 - INFO - Successfully downloaded: do20250128p01.pdf
+2025-11-28 10:39:26,897 - INFO - Successfully downloaded: do20250128p02.pdf
+2025-11-28 10:39:26,898 - INFO - Processing date: 20250129
+2025-11-28 10:39:26,962 - INFO - Found 2 files for date 20250129
+2025-11-28 10:39:27,210 - INFO - Successfully downloaded: do20250129p01.pdf
+2025-11-28 10:39:27,441 - INFO - Successfully downloaded: do20250129p02.pdf
+2025-11-28 10:39:27,441 - INFO - Processing date: 20250130
+2025-11-28 10:39:27,490 - INFO - Found 3 files for date 20250130
+2025-11-28 10:39:27,713 - INFO - Successfully downloaded: do20250130p01.pdf
+2025-11-28 10:39:27,942 - INFO - Successfully downloaded: do20250130p02.pdf
+2025-11-28 10:39:28,271 - INFO - Successfully downloaded: do20250130p03.pdf
+2025-11-28 10:39:28,271 - INFO - Processing date: 20250131
+2025-11-28 10:39:28,419 - INFO - Found 4 files for date 20250131
+2025-11-28 10:39:28,849 - INFO - Successfully downloaded: do20250131p01.pdf
+2025-11-28 10:39:31,069 - INFO - Successfully downloaded: do20250131p02.pdf
+2025-11-28 10:39:31,651 - INFO - Successfully downloaded: do20250131p03.pdf
+2025-11-28 10:39:31,825 - INFO - Successfully downloaded: do20250131p04.pdf
+2025-11-28 10:39:31,825 - INFO - Processing date: 20250201
+2025-11-28 10:39:31,892 - INFO - No publications found for date 20250201
+2025-11-28 10:39:31,892 - INFO - Processing date: 20250202
+2025-11-28 10:39:31,950 - INFO - No publications found for date 20250202
+2025-11-28 10:39:31,950 - INFO - Processing date: 20250203
+2025-11-28 10:39:32,000 - INFO - Found 2 files for date 20250203
+2025-11-28 10:39:32,295 - INFO - Successfully downloaded: do20250203p01.pdf
+2025-11-28 10:39:32,521 - INFO - Successfully downloaded: do20250203p02.pdf
+2025-11-28 10:39:32,522 - INFO - Processing date: 20250204
+2025-11-28 10:39:32,597 - INFO - Found 2 files for date 20250204
+2025-11-28 10:39:32,960 - INFO - Successfully downloaded: do20250204p01.pdf
+2025-11-28 10:39:33,288 - INFO - Successfully downloaded: do20250204p02.pdf
+2025-11-28 10:39:33,288 - INFO - Processing date: 20250205
+2025-11-28 10:39:33,352 - INFO - Found 3 files for date 20250205
+2025-11-28 10:39:33,592 - INFO - Successfully downloaded: do20250205p01.pdf
+2025-11-28 10:39:33,833 - INFO - Successfully downloaded: do20250205p02.pdf
+2025-11-28 10:39:34,039 - INFO - Successfully downloaded: do20250205p03.pdf
+2025-11-28 10:39:34,039 - INFO - Processing date: 20250206
+2025-11-28 10:39:34,097 - INFO - Found 2 files for date 20250206
+2025-11-28 10:39:34,378 - INFO - Successfully downloaded: do20250206p01.pdf
+2025-11-28 10:39:34,617 - INFO - Successfully downloaded: do20250206p02.pdf
+2025-11-28 10:39:34,618 - INFO - Processing date: 20250207
+2025-11-28 10:39:34,686 - INFO - Found 3 files for date 20250207
+2025-11-28 10:39:34,923 - INFO - Successfully downloaded: do20250207p01.pdf
+2025-11-28 10:39:35,222 - INFO - Successfully downloaded: do20250207p02.pdf
+2025-11-28 10:39:35,456 - INFO - Successfully downloaded: do20250207p03.pdf
+2025-11-28 10:39:35,456 - INFO - Processing date: 20250208
+2025-11-28 10:39:35,504 - INFO - No publications found for date 20250208
+2025-11-28 10:39:35,504 - INFO - Processing date: 20250209
+2025-11-28 10:39:35,561 - INFO - No publications found for date 20250209
+2025-11-28 10:39:35,561 - INFO - Processing date: 20250210
+2025-11-28 10:39:35,616 - INFO - Found 2 files for date 20250210
+2025-11-28 10:39:35,860 - INFO - Successfully downloaded: do20250210p01.pdf
+2025-11-28 10:39:36,097 - INFO - Successfully downloaded: do20250210p02.pdf
+2025-11-28 10:39:36,098 - INFO - Processing date: 20250211
+2025-11-28 10:39:36,185 - INFO - Found 4 files for date 20250211
+2025-11-28 10:39:36,407 - INFO - Successfully downloaded: do20250211p01.pdf
+2025-11-28 10:39:36,738 - INFO - Successfully downloaded: do20250211p02.pdf
+2025-11-28 10:39:36,998 - INFO - Successfully downloaded: do20250211p03.pdf
+2025-11-28 10:39:37,275 - INFO - Successfully downloaded: do20250211p04.pdf
+2025-11-28 10:39:37,275 - INFO - Processing date: 20250212
+2025-11-28 10:39:37,366 - INFO - Found 9 files for date 20250212
+2025-11-28 10:39:37,587 - INFO - Successfully downloaded: do20250212p01.pdf
+2025-11-28 10:39:37,807 - INFO - Successfully downloaded: do20250212p02.pdf
+2025-11-28 10:39:38,196 - INFO - Successfully downloaded: do20250212p03.pdf
+2025-11-28 10:39:38,611 - INFO - Successfully downloaded: do20250212p04.pdf
+2025-11-28 10:39:39,012 - INFO - Successfully downloaded: do20250212p05.pdf
+2025-11-28 10:39:39,305 - INFO - Successfully downloaded: do20250212p06.pdf
+2025-11-28 10:39:39,900 - INFO - Successfully downloaded: do20250212p07.pdf
+2025-11-28 10:39:40,155 - INFO - Successfully downloaded: do20250212p08.pdf
+2025-11-28 10:39:40,521 - INFO - Successfully downloaded: do20250212p09.pdf
+2025-11-28 10:39:40,522 - INFO - Processing date: 20250213
+2025-11-28 10:39:40,588 - INFO - Found 6 files for date 20250213
+2025-11-28 10:39:40,967 - INFO - Successfully downloaded: do20250213p01.pdf
+2025-11-28 10:39:41,289 - INFO - Successfully downloaded: do20250213p02.pdf
+2025-11-28 10:39:41,641 - INFO - Successfully downloaded: do20250213p03.pdf
+2025-11-28 10:39:41,941 - INFO - Successfully downloaded: do20250213p04.pdf
+2025-11-28 10:39:42,173 - INFO - Successfully downloaded: do20250213p05.pdf
+2025-11-28 10:39:42,426 - INFO - Successfully downloaded: do20250213p06.pdf
+2025-11-28 10:39:42,426 - INFO - Processing date: 20250214
+2025-11-28 10:39:42,485 - INFO - Found 5 files for date 20250214
+2025-11-28 10:39:42,752 - INFO - Successfully downloaded: do20250214p01.pdf
+2025-11-28 10:39:43,021 - INFO - Successfully downloaded: do20250214p02.pdf
+2025-11-28 10:39:43,317 - INFO - Successfully downloaded: do20250214p03.pdf
+2025-11-28 10:39:43,603 - INFO - Successfully downloaded: do20250214p04.pdf
+2025-11-28 10:39:43,867 - INFO - Successfully downloaded: do20250214p05.pdf
+2025-11-28 10:39:43,867 - INFO - Processing date: 20250215
+2025-11-28 10:39:43,910 - INFO - No publications found for date 20250215
+2025-11-28 10:39:43,910 - INFO - Processing date: 20250216
+2025-11-28 10:39:43,973 - INFO - No publications found for date 20250216
+2025-11-28 10:39:43,974 - INFO - Processing date: 20250217
+2025-11-28 10:39:44,036 - INFO - Found 3 files for date 20250217
+2025-11-28 10:39:44,435 - INFO - Successfully downloaded: do20250217p01.pdf
+2025-11-28 10:39:44,776 - INFO - Successfully downloaded: do20250217p02.pdf
+2025-11-28 10:39:45,072 - INFO - Successfully downloaded: do20250217p03.pdf
+2025-11-28 10:39:45,072 - INFO - Processing date: 20250218
+2025-11-28 10:39:45,152 - INFO - Found 5 files for date 20250218
+2025-11-28 10:39:45,428 - INFO - Successfully downloaded: do20250218p01.pdf
+2025-11-28 10:39:45,735 - INFO - Successfully downloaded: do20250218p02.pdf
+2025-11-28 10:39:46,163 - INFO - Successfully downloaded: do20250218p03.pdf
+2025-11-28 10:39:46,503 - INFO - Successfully downloaded: do20250218p04.pdf
+2025-11-28 10:39:46,853 - INFO - Successfully downloaded: do20250218p05.pdf
+2025-11-28 10:39:46,853 - INFO - Processing date: 20250219
+2025-11-28 10:39:46,905 - INFO - Found 4 files for date 20250219
+2025-11-28 10:39:47,337 - INFO - Successfully downloaded: do20250219p01.pdf
+2025-11-28 10:39:47,712 - INFO - Successfully downloaded: do20250219p02.pdf
+2025-11-28 10:39:48,035 - INFO - Successfully downloaded: do20250219p03.pdf
+2025-11-28 10:39:48,460 - INFO - Successfully downloaded: do20250219p04.pdf
+2025-11-28 10:39:48,460 - INFO - Processing date: 20250220
+2025-11-28 10:39:48,508 - INFO - Found 2 files for date 20250220
+2025-11-28 10:39:48,839 - INFO - Successfully downloaded: do20250220p01.pdf
+2025-11-28 10:39:49,395 - INFO - Successfully downloaded: do20250220p02.pdf
+2025-11-28 10:39:49,396 - INFO - Processing date: 20250221
+2025-11-28 10:39:49,486 - INFO - Found 3 files for date 20250221
+2025-11-28 10:39:49,810 - INFO - Successfully downloaded: do20250221p01.pdf
+2025-11-28 10:39:50,072 - INFO - Successfully downloaded: do20250221p02.pdf
+2025-11-28 10:39:50,354 - INFO - Successfully downloaded: do20250221p03.pdf
+2025-11-28 10:39:50,355 - INFO - Processing date: 20250222
+2025-11-28 10:39:50,443 - INFO - No publications found for date 20250222
+2025-11-28 10:39:50,443 - INFO - Processing date: 20250223
+2025-11-28 10:39:50,510 - INFO - No publications found for date 20250223
+2025-11-28 10:39:50,510 - INFO - Processing date: 20250224
+2025-11-28 10:39:50,569 - INFO - Found 2 files for date 20250224
+2025-11-28 10:39:50,872 - INFO - Successfully downloaded: do20250224p01.pdf
+2025-11-28 10:39:51,157 - INFO - Successfully downloaded: do20250224p02.pdf
+2025-11-28 10:39:51,157 - INFO - Processing date: 20250225
+2025-11-28 10:39:51,238 - INFO - Found 2 files for date 20250225
+2025-11-28 10:39:51,548 - INFO - Successfully downloaded: do20250225p01.pdf
+2025-11-28 10:39:51,913 - INFO - Successfully downloaded: do20250225p02.pdf
+2025-11-28 10:39:51,913 - INFO - Processing date: 20250226
+2025-11-28 10:39:51,964 - INFO - Found 3 files for date 20250226
+2025-11-28 10:39:52,286 - INFO - Successfully downloaded: do20250226p01.pdf
+2025-11-28 10:39:52,579 - INFO - Successfully downloaded: do20250226p02.pdf
+2025-11-28 10:39:52,922 - INFO - Successfully downloaded: do20250226p03.pdf
+2025-11-28 10:39:52,922 - INFO - Processing date: 20250227
+2025-11-28 10:39:52,974 - INFO - Found 2 files for date 20250227
+2025-11-28 10:39:53,343 - INFO - Successfully downloaded: do20250227p01.pdf
+2025-11-28 10:39:53,683 - INFO - Successfully downloaded: do20250227p02.pdf
+2025-11-28 10:39:53,683 - INFO - Processing date: 20250228
+2025-11-28 10:39:53,765 - INFO - Found 3 files for date 20250228
+2025-11-28 10:39:54,089 - INFO - Successfully downloaded: do20250228p01.pdf
+2025-11-28 10:39:54,452 - INFO - Successfully downloaded: do20250228p02.pdf
+2025-11-28 10:39:54,754 - INFO - Successfully downloaded: do20250228p03.pdf
+2025-11-28 10:39:54,754 - INFO - Processing date: 20250301
+2025-11-28 10:39:54,805 - INFO - No publications found for date 20250301
+2025-11-28 10:39:54,805 - INFO - Processing date: 20250302
+2025-11-28 10:39:54,853 - INFO - No publications found for date 20250302
+2025-11-28 10:39:54,853 - INFO - Processing date: 20250303
+2025-11-28 10:39:54,896 - INFO - No publications found for date 20250303
+2025-11-28 10:39:54,896 - INFO - Processing date: 20250304
+2025-11-28 10:39:54,944 - INFO - No publications found for date 20250304
+2025-11-28 10:39:54,944 - INFO - Processing date: 20250305
+2025-11-28 10:39:54,998 - INFO - Found 2 files for date 20250305
+2025-11-28 10:39:55,314 - INFO - Successfully downloaded: do20250305p01.pdf
+2025-11-28 10:39:55,681 - INFO - Successfully downloaded: do20250305p02.pdf
+2025-11-28 10:39:55,682 - INFO - Processing date: 20250306
+2025-11-28 10:39:55,736 - INFO - Found 2 files for date 20250306
+2025-11-28 10:39:56,013 - INFO - Successfully downloaded: do20250306p01.pdf
+2025-11-28 10:39:56,314 - INFO - Successfully downloaded: do20250306p02.pdf
+2025-11-28 10:39:56,314 - INFO - Processing date: 20250307
+2025-11-28 10:39:56,367 - INFO - Found 2 files for date 20250307
+2025-11-28 10:39:56,693 - INFO - Successfully downloaded: do20250307p01.pdf
+2025-11-28 10:39:57,107 - INFO - Successfully downloaded: do20250307p02.pdf
+2025-11-28 10:39:57,107 - INFO - Processing date: 20250308
+2025-11-28 10:39:57,166 - INFO - No publications found for date 20250308
+2025-11-28 10:39:57,167 - INFO - Processing date: 20250309
+2025-11-28 10:39:57,226 - INFO - No publications found for date 20250309
+2025-11-28 10:39:57,227 - INFO - Processing date: 20250310
+2025-11-28 10:39:57,280 - INFO - Found 2 files for date 20250310
+2025-11-28 10:39:57,757 - INFO - Successfully downloaded: do20250310p01.pdf
+2025-11-28 10:39:58,086 - INFO - Successfully downloaded: do20250310p02.pdf
+2025-11-28 10:39:58,086 - INFO - Processing date: 20250311
+2025-11-28 10:39:58,142 - INFO - Found 2 files for date 20250311
+2025-11-28 10:39:58,480 - INFO - Successfully downloaded: do20250311p01.pdf
+2025-11-28 10:39:58,761 - INFO - Successfully downloaded: do20250311p02.pdf
+2025-11-28 10:39:58,761 - INFO - Processing date: 20250312
+2025-11-28 10:39:58,814 - INFO - Found 3 files for date 20250312
+2025-11-28 10:39:59,096 - INFO - Successfully downloaded: do20250312p01.pdf
+2025-11-28 10:39:59,407 - INFO - Successfully downloaded: do20250312p02.pdf
+2025-11-28 10:39:59,649 - INFO - Successfully downloaded: do20250312p03.pdf
+2025-11-28 10:39:59,649 - INFO - Processing date: 20250313
+2025-11-28 10:39:59,738 - INFO - Found 5 files for date 20250313
+2025-11-28 10:40:00,320 - INFO - Successfully downloaded: do20250313p01.pdf
+2025-11-28 10:40:00,709 - INFO - Successfully downloaded: do20250313p02.pdf
+2025-11-28 10:40:01,038 - INFO - Successfully downloaded: do20250313p03.pdf
+2025-11-28 10:40:01,470 - INFO - Successfully downloaded: do20250313p04.pdf
+2025-11-28 10:40:02,457 - INFO - Successfully downloaded: do20250313p05.pdf
+2025-11-28 10:40:02,457 - INFO - Processing date: 20250314
+2025-11-28 10:40:02,595 - INFO - Found 7 files for date 20250314
+2025-11-28 10:40:02,995 - INFO - Successfully downloaded: do20250314p01.pdf
+2025-11-28 10:40:03,661 - INFO - Successfully downloaded: do20250314p02.pdf
+2025-11-28 10:40:04,047 - INFO - Successfully downloaded: do20250314p03.pdf
+2025-11-28 10:40:04,410 - INFO - Successfully downloaded: do20250314p04.pdf
+2025-11-28 10:40:04,831 - INFO - Successfully downloaded: do20250314p05.pdf
+2025-11-28 10:40:05,196 - INFO - Successfully downloaded: do20250314p06.pdf
+2025-11-28 10:40:05,476 - INFO - Successfully downloaded: do20250314p07.pdf
+2025-11-28 10:40:05,476 - INFO - Processing date: 20250315
+2025-11-28 10:40:05,528 - INFO - No publications found for date 20250315
+2025-11-28 10:40:05,528 - INFO - Processing date: 20250316
+2025-11-28 10:40:05,596 - INFO - No publications found for date 20250316
+2025-11-28 10:40:05,596 - INFO - Processing date: 20250317
+2025-11-28 10:40:05,667 - INFO - Found 2 files for date 20250317
+2025-11-28 10:40:06,469 - INFO - Successfully downloaded: do20250317p01.pdf
+2025-11-28 10:40:06,818 - INFO - Successfully downloaded: do20250317p02.pdf
+2025-11-28 10:40:06,818 - INFO - Processing date: 20250318
+2025-11-28 10:40:06,875 - INFO - Found 2 files for date 20250318
+2025-11-28 10:40:07,350 - INFO - Successfully downloaded: do20250318p01.pdf
+2025-11-28 10:40:07,893 - INFO - Successfully downloaded: do20250318p02.pdf
+2025-11-28 10:40:07,893 - INFO - Processing date: 20250319
+2025-11-28 10:40:07,942 - INFO - No publications found for date 20250319
+2025-11-28 10:40:07,942 - INFO - Processing date: 20250320
+2025-11-28 10:40:07,992 - INFO - Found 2 files for date 20250320
+2025-11-28 10:40:08,359 - INFO - Successfully downloaded: do20250320p01.pdf
+2025-11-28 10:40:08,758 - INFO - Successfully downloaded: do20250320p02.pdf
+2025-11-28 10:40:08,758 - INFO - Processing date: 20250321
+2025-11-28 10:40:08,831 - INFO - Found 2 files for date 20250321
+2025-11-28 10:40:09,104 - INFO - Successfully downloaded: do20250321p01.pdf
+2025-11-28 10:40:10,618 - INFO - Successfully downloaded: do20250321p02.pdf
+2025-11-28 10:40:10,619 - INFO - Processing date: 20250322
+2025-11-28 10:40:10,689 - INFO - No publications found for date 20250322
+2025-11-28 10:40:10,689 - INFO - Processing date: 20250323
+2025-11-28 10:40:10,736 - INFO - No publications found for date 20250323
+2025-11-28 10:40:10,736 - INFO - Processing date: 20250324
+2025-11-28 10:40:10,785 - INFO - Found 3 files for date 20250324
+2025-11-28 10:40:11,203 - INFO - Successfully downloaded: do20250324p01.pdf
+2025-11-28 10:40:11,467 - INFO - Successfully downloaded: do20250324p02.pdf
+2025-11-28 10:40:11,869 - INFO - Successfully downloaded: do20250324p03.pdf
+2025-11-28 10:40:11,870 - INFO - Processing date: 20250325
+2025-11-28 10:40:11,917 - INFO - No publications found for date 20250325
+2025-11-28 10:40:11,917 - INFO - Processing date: 20250326
+2025-11-28 10:40:11,968 - INFO - Found 4 files for date 20250326
+2025-11-28 10:40:12,313 - INFO - Successfully downloaded: do20250326p01.pdf
+2025-11-28 10:40:12,579 - INFO - Successfully downloaded: do20250326p02.pdf
+2025-11-28 10:40:12,903 - INFO - Successfully downloaded: do20250326p03.pdf
+2025-11-28 10:40:13,139 - INFO - Successfully downloaded: do20250326p04.pdf
+2025-11-28 10:40:13,139 - INFO - Processing date: 20250327
+2025-11-28 10:40:13,186 - INFO - Found 2 files for date 20250327
+2025-11-28 10:40:13,472 - INFO - Successfully downloaded: do20250327p01.pdf
+2025-11-28 10:40:13,925 - INFO - Successfully downloaded: do20250327p02.pdf
+2025-11-28 10:40:13,925 - INFO - Processing date: 20250328
+2025-11-28 10:40:14,000 - INFO - Found 3 files for date 20250328
+2025-11-28 10:40:14,403 - INFO - Successfully downloaded: do20250328p01.pdf
+2025-11-28 10:40:14,672 - INFO - Successfully downloaded: do20250328p02.pdf
+2025-11-28 10:40:14,965 - INFO - Successfully downloaded: do20250328p03.pdf
+2025-11-28 10:40:14,965 - INFO - Processing date: 20250329
+2025-11-28 10:40:15,014 - INFO - No publications found for date 20250329
+2025-11-28 10:40:15,014 - INFO - Processing date: 20250330
+2025-11-28 10:40:15,067 - INFO - No publications found for date 20250330
+2025-11-28 10:40:15,067 - INFO - Processing date: 20250331
+2025-11-28 10:40:15,113 - INFO - Found 3 files for date 20250331
+2025-11-28 10:40:15,421 - INFO - Successfully downloaded: do20250331p01.pdf
+2025-11-28 10:40:15,683 - INFO - Successfully downloaded: do20250331p02.pdf
+2025-11-28 10:40:15,982 - INFO - Successfully downloaded: do20250331p03.pdf
+2025-11-28 10:40:15,982 - INFO - Processing date: 20250401
+2025-11-28 10:40:16,049 - INFO - Found 3 files for date 20250401
+2025-11-28 10:40:16,561 - INFO - Successfully downloaded: do20250401p01.pdf
+2025-11-28 10:40:16,907 - INFO - Successfully downloaded: do20250401p02.pdf
+2025-11-28 10:40:17,235 - INFO - Successfully downloaded: do20250401p03.pdf
+2025-11-28 10:40:17,236 - INFO - Processing date: 20250402
+2025-11-28 10:40:17,302 - INFO - Found 3 files for date 20250402
+2025-11-28 10:40:17,612 - INFO - Successfully downloaded: do20250402p01.pdf
+2025-11-28 10:40:18,082 - INFO - Successfully downloaded: do20250402p02.pdf
+2025-11-28 10:40:18,352 - INFO - Successfully downloaded: do20250402p03.pdf
+2025-11-28 10:40:18,352 - INFO - Processing date: 20250403
+2025-11-28 10:40:18,409 - INFO - Found 4 files for date 20250403
+2025-11-28 10:40:19,121 - INFO - Successfully downloaded: do20250403p01.pdf
+2025-11-28 10:40:19,417 - INFO - Successfully downloaded: do20250403p02.pdf
+2025-11-28 10:40:19,769 - INFO - Successfully downloaded: do20250403p03.pdf
+2025-11-28 10:40:20,096 - INFO - Successfully downloaded: do20250403p04.pdf
+2025-11-28 10:40:20,097 - INFO - Processing date: 20250404
+2025-11-28 10:40:20,179 - INFO - Found 3 files for date 20250404
+2025-11-28 10:40:20,537 - INFO - Successfully downloaded: do20250404p01.pdf
+2025-11-28 10:40:20,853 - INFO - Successfully downloaded: do20250404p02.pdf
+2025-11-28 10:40:21,126 - INFO - Successfully downloaded: do20250404p03.pdf
+2025-11-28 10:40:21,126 - INFO - Processing date: 20250405
+2025-11-28 10:40:21,179 - INFO - No publications found for date 20250405
+2025-11-28 10:40:21,180 - INFO - Processing date: 20250406
+2025-11-28 10:40:21,246 - INFO - No publications found for date 20250406
+2025-11-28 10:40:21,246 - INFO - Processing date: 20250407
+2025-11-28 10:40:21,293 - INFO - Found 4 files for date 20250407
+2025-11-28 10:40:21,779 - INFO - Successfully downloaded: do20250407p01.pdf
+2025-11-28 10:40:22,123 - INFO - Successfully downloaded: do20250407p02.pdf
+2025-11-28 10:40:22,480 - INFO - Successfully downloaded: do20250407p03.pdf
+2025-11-28 10:40:23,141 - INFO - Successfully downloaded: do20250407p04.pdf
+2025-11-28 10:40:23,141 - INFO - Processing date: 20250408
+2025-11-28 10:40:23,215 - INFO - Found 4 files for date 20250408
+2025-11-28 10:40:23,782 - INFO - Successfully downloaded: do20250408p01.pdf
+2025-11-28 10:40:24,131 - INFO - Successfully downloaded: do20250408p02.pdf
+2025-11-28 10:40:24,429 - INFO - Successfully downloaded: do20250408p03.pdf
+2025-11-28 10:40:24,823 - INFO - Successfully downloaded: do20250408p04.pdf
+2025-11-28 10:40:24,824 - INFO - Processing date: 20250409
+2025-11-28 10:40:24,870 - INFO - Found 4 files for date 20250409
+2025-11-28 10:40:25,280 - INFO - Successfully downloaded: do20250409p01.pdf
+2025-11-28 10:40:25,638 - INFO - Successfully downloaded: do20250409p02.pdf
+2025-11-28 10:40:25,925 - INFO - Successfully downloaded: do20250409p03.pdf
+2025-11-28 10:40:26,283 - INFO - Successfully downloaded: do20250409p04.pdf
+2025-11-28 10:40:26,283 - INFO - Processing date: 20250410
+2025-11-28 10:40:26,333 - INFO - Found 3 files for date 20250410
+2025-11-28 10:40:26,651 - INFO - Successfully downloaded: do20250410p01.pdf
+2025-11-28 10:40:27,080 - INFO - Successfully downloaded: do20250410p02.pdf
+2025-11-28 10:40:27,441 - INFO - Successfully downloaded: do20250410p03.pdf
+2025-11-28 10:40:27,441 - INFO - Processing date: 20250411
+2025-11-28 10:40:27,539 - INFO - Found 3 files for date 20250411
+2025-11-28 10:40:27,946 - INFO - Successfully downloaded: do20250411p01.pdf
+2025-11-28 10:40:28,264 - INFO - Successfully downloaded: do20250411p02.pdf
+2025-11-28 10:40:28,629 - INFO - Successfully downloaded: do20250411p03.pdf
+2025-11-28 10:40:28,629 - INFO - Processing date: 20250412
+2025-11-28 10:40:28,704 - INFO - No publications found for date 20250412
+2025-11-28 10:40:28,704 - INFO - Processing date: 20250413
+2025-11-28 10:40:28,751 - INFO - No publications found for date 20250413
+2025-11-28 10:40:28,751 - INFO - Processing date: 20250414
+2025-11-28 10:40:28,821 - INFO - Found 4 files for date 20250414
+2025-11-28 10:40:29,178 - INFO - Successfully downloaded: do20250414p01.pdf
+2025-11-28 10:40:29,557 - INFO - Successfully downloaded: do20250414p02.pdf
+2025-11-28 10:40:29,841 - INFO - Successfully downloaded: do20250414p03.pdf
+2025-11-28 10:40:30,131 - INFO - Successfully downloaded: do20250414p04.pdf
+2025-11-28 10:40:30,131 - INFO - Processing date: 20250415
+2025-11-28 10:40:30,185 - INFO - Found 2 files for date 20250415
+2025-11-28 10:40:30,653 - INFO - Successfully downloaded: do20250415p01.pdf
+2025-11-28 10:40:31,122 - INFO - Successfully downloaded: do20250415p02.pdf
+2025-11-28 10:40:31,122 - INFO - Processing date: 20250416
+2025-11-28 10:40:31,241 - INFO - Found 10 files for date 20250416
+2025-11-28 10:40:31,541 - INFO - Successfully downloaded: do20250416p01.pdf
+2025-11-28 10:40:31,811 - INFO - Successfully downloaded: do20250416p02.pdf
+2025-11-28 10:40:32,096 - INFO - Successfully downloaded: do20250416p03.pdf
+2025-11-28 10:40:32,501 - INFO - Successfully downloaded: do20250416p04.pdf
+2025-11-28 10:40:32,792 - INFO - Successfully downloaded: do20250416p05.pdf
+2025-11-28 10:40:33,074 - INFO - Successfully downloaded: do20250416p06.pdf
+2025-11-28 10:40:33,313 - INFO - Successfully downloaded: do20250416p07.pdf
+2025-11-28 10:40:33,575 - INFO - Successfully downloaded: do20250416p08.pdf
+2025-11-28 10:40:34,075 - INFO - Successfully downloaded: do20250416p09.pdf
+2025-11-28 10:40:34,405 - INFO - Successfully downloaded: do20250416p10.pdf
+2025-11-28 10:40:34,405 - INFO - Processing date: 20250417
+2025-11-28 10:40:34,460 - INFO - No publications found for date 20250417
+2025-11-28 10:40:34,460 - INFO - Processing date: 20250418
+2025-11-28 10:40:34,516 - INFO - No publications found for date 20250418
+2025-11-28 10:40:34,516 - INFO - Processing date: 20250419
+2025-11-28 10:40:34,560 - INFO - No publications found for date 20250419
+2025-11-28 10:40:34,560 - INFO - Processing date: 20250420
+2025-11-28 10:40:34,603 - INFO - No publications found for date 20250420
+2025-11-28 10:40:34,603 - INFO - Processing date: 20250421
+2025-11-28 10:40:34,662 - INFO - Found 1 files for date 20250421
+2025-11-28 10:40:34,885 - INFO - Successfully downloaded: do20250421p01.pdf
+2025-11-28 10:40:34,885 - INFO - Processing date: 20250422
+2025-11-28 10:40:34,939 - INFO - Found 3 files for date 20250422
+2025-11-28 10:40:35,395 - INFO - Successfully downloaded: do20250422p01.pdf
+2025-11-28 10:40:35,735 - INFO - Successfully downloaded: do20250422p02.pdf
+2025-11-28 10:40:36,140 - INFO - Successfully downloaded: do20250422p03.pdf
+2025-11-28 10:40:36,140 - INFO - Processing date: 20250423
+2025-11-28 10:40:36,197 - INFO - Found 6 files for date 20250423
+2025-11-28 10:40:36,551 - INFO - Successfully downloaded: do20250423p01.pdf
+2025-11-28 10:40:36,964 - INFO - Successfully downloaded: do20250423p02.pdf
+2025-11-28 10:40:37,332 - INFO - Successfully downloaded: do20250423p03.pdf
+2025-11-28 10:40:37,634 - INFO - Successfully downloaded: do20250423p04.pdf
+2025-11-28 10:40:37,958 - INFO - Successfully downloaded: do20250423p05.pdf
+2025-11-28 10:40:38,313 - INFO - Successfully downloaded: do20250423p06.pdf
+2025-11-28 10:40:38,313 - INFO - Processing date: 20250424
+2025-11-28 10:40:38,361 - INFO - Found 2 files for date 20250424
+2025-11-28 10:40:38,764 - INFO - Successfully downloaded: do20250424p01.pdf
+2025-11-28 10:40:39,107 - INFO - Successfully downloaded: do20250424p02.pdf
+2025-11-28 10:40:39,107 - INFO - Processing date: 20250425
+2025-11-28 10:40:39,182 - INFO - Found 4 files for date 20250425
+2025-11-28 10:40:39,583 - INFO - Successfully downloaded: do20250425p01.pdf
+2025-11-28 10:40:39,893 - INFO - Successfully downloaded: do20250425p02.pdf
+2025-11-28 10:40:40,291 - INFO - Successfully downloaded: do20250425p03.pdf
+2025-11-28 10:40:40,688 - INFO - Successfully downloaded: do20250425p04.pdf
+2025-11-28 10:40:40,689 - INFO - Processing date: 20250426
+2025-11-28 10:40:40,745 - INFO - No publications found for date 20250426
+2025-11-28 10:40:40,746 - INFO - Processing date: 20250427
+2025-11-28 10:40:40,790 - INFO - No publications found for date 20250427
+2025-11-28 10:40:40,790 - INFO - Processing date: 20250428
+2025-11-28 10:40:40,837 - INFO - Found 3 files for date 20250428
+2025-11-28 10:40:41,191 - INFO - Successfully downloaded: do20250428p01.pdf
+2025-11-28 10:40:41,554 - INFO - Successfully downloaded: do20250428p02.pdf
+2025-11-28 10:40:41,849 - INFO - Successfully downloaded: do20250428p03.pdf
+2025-11-28 10:40:41,849 - INFO - Processing date: 20250429
+2025-11-28 10:40:41,893 - INFO - Found 2 files for date 20250429
+2025-11-28 10:40:42,270 - INFO - Successfully downloaded: do20250429p01.pdf
+2025-11-28 10:40:42,573 - INFO - Successfully downloaded: do20250429p02.pdf
+2025-11-28 10:40:42,573 - INFO - Processing date: 20250430
+2025-11-28 10:40:42,624 - INFO - Found 3 files for date 20250430
+2025-11-28 10:40:42,977 - INFO - Successfully downloaded: do20250430p01.pdf
+2025-11-28 10:40:43,311 - INFO - Successfully downloaded: do20250430p02.pdf
+2025-11-28 10:40:44,057 - INFO - Successfully downloaded: do20250430p03.pdf
+2025-11-28 10:40:44,057 - INFO - Processing date: 20250501
+2025-11-28 10:40:44,102 - INFO - No publications found for date 20250501
+2025-11-28 10:40:44,102 - INFO - Processing date: 20250502
+2025-11-28 10:40:44,164 - INFO - Found 3 files for date 20250502
+2025-11-28 10:40:44,451 - INFO - Successfully downloaded: do20250502p01.pdf
+2025-11-28 10:40:44,754 - INFO - Successfully downloaded: do20250502p02.pdf
+2025-11-28 10:40:45,063 - INFO - Successfully downloaded: do20250502p03.pdf
+2025-11-28 10:40:45,063 - INFO - Processing date: 20250503
+2025-11-28 10:40:45,110 - INFO - No publications found for date 20250503
+2025-11-28 10:40:45,110 - INFO - Processing date: 20250504
+2025-11-28 10:40:45,159 - INFO - No publications found for date 20250504
+2025-11-28 10:40:45,159 - INFO - Processing date: 20250505
+2025-11-28 10:40:45,212 - INFO - Found 6 files for date 20250505
+2025-11-28 10:40:45,536 - INFO - Successfully downloaded: do20250505p01.pdf
+2025-11-28 10:40:45,816 - INFO - Successfully downloaded: do20250505p02.pdf
+2025-11-28 10:40:46,068 - INFO - Successfully downloaded: do20250505p03.pdf
+2025-11-28 10:40:46,446 - INFO - Successfully downloaded: do20250505p04.pdf
+2025-11-28 10:40:46,801 - INFO - Successfully downloaded: do20250505p05.pdf
+2025-11-28 10:40:47,156 - INFO - Successfully downloaded: do20250505p06.pdf
+2025-11-28 10:40:47,156 - INFO - Processing date: 20250506
+2025-11-28 10:40:47,208 - INFO - Found 3 files for date 20250506
+2025-11-28 10:40:47,900 - INFO - Successfully downloaded: do20250506p01.pdf
+2025-11-28 10:40:48,221 - INFO - Successfully downloaded: do20250506p02.pdf
+2025-11-28 10:40:48,636 - INFO - Successfully downloaded: do20250506p03.pdf
+2025-11-28 10:40:48,636 - INFO - Processing date: 20250507
+2025-11-28 10:40:48,685 - INFO - Found 4 files for date 20250507
+2025-11-28 10:40:49,130 - INFO - Successfully downloaded: do20250507p01.pdf
+2025-11-28 10:40:49,391 - INFO - Successfully downloaded: do20250507p02.pdf
+2025-11-28 10:40:49,756 - INFO - Successfully downloaded: do20250507p03.pdf
+2025-11-28 10:40:50,068 - INFO - Successfully downloaded: do20250507p04.pdf
+2025-11-28 10:40:50,068 - INFO - Processing date: 20250508
+2025-11-28 10:40:50,113 - INFO - Found 2 files for date 20250508
+2025-11-28 10:40:50,948 - INFO - Successfully downloaded: do20250508p01.pdf
+2025-11-28 10:40:51,256 - INFO - Successfully downloaded: do20250508p02.pdf
+2025-11-28 10:40:51,256 - INFO - Processing date: 20250509
+2025-11-28 10:40:51,338 - INFO - Found 3 files for date 20250509
+2025-11-28 10:40:51,639 - INFO - Successfully downloaded: do20250509p01.pdf
+2025-11-28 10:40:51,919 - INFO - Successfully downloaded: do20250509p02.pdf
+2025-11-28 10:40:52,265 - INFO - Successfully downloaded: do20250509p03.pdf
+2025-11-28 10:40:52,265 - INFO - Processing date: 20250510
+2025-11-28 10:40:52,312 - INFO - No publications found for date 20250510
+2025-11-28 10:40:52,312 - INFO - Processing date: 20250511
+2025-11-28 10:40:52,362 - INFO - No publications found for date 20250511
+2025-11-28 10:40:52,362 - INFO - Processing date: 20250512
+2025-11-28 10:40:52,417 - INFO - Found 4 files for date 20250512
+2025-11-28 10:40:52,728 - INFO - Successfully downloaded: do20250512p01.pdf
+2025-11-28 10:40:53,355 - INFO - Successfully downloaded: do20250512p02.pdf
+2025-11-28 10:40:53,711 - INFO - Successfully downloaded: do20250512p03.pdf
+2025-11-28 10:40:54,090 - INFO - Successfully downloaded: do20250512p04.pdf
+2025-11-28 10:40:54,091 - INFO - Processing date: 20250513
+2025-11-28 10:40:54,176 - INFO - Found 5 files for date 20250513
+2025-11-28 10:40:55,954 - INFO - Successfully downloaded: do20250513p01.pdf
+2025-11-28 10:40:57,340 - INFO - Successfully downloaded: do20250513p02.pdf
+2025-11-28 10:40:57,634 - INFO - Successfully downloaded: do20250513p03.pdf
+2025-11-28 10:40:57,921 - INFO - Successfully downloaded: do20250513p04.pdf
+2025-11-28 10:40:58,187 - INFO - Successfully downloaded: do20250513p05.pdf
+2025-11-28 10:40:58,188 - INFO - Processing date: 20250514
+2025-11-28 10:40:58,272 - INFO - Found 5 files for date 20250514
+2025-11-28 10:40:58,573 - INFO - Successfully downloaded: do20250514p01.pdf
+2025-11-28 10:40:58,820 - INFO - Successfully downloaded: do20250514p02.pdf
+2025-11-28 10:40:59,089 - INFO - Successfully downloaded: do20250514p03.pdf
+2025-11-28 10:40:59,285 - INFO - Successfully downloaded: do20250514p04.pdf
+2025-11-28 10:40:59,551 - INFO - Successfully downloaded: do20250514p05.pdf
+2025-11-28 10:40:59,551 - INFO - Processing date: 20250515
+2025-11-28 10:40:59,598 - INFO - Found 3 files for date 20250515
+2025-11-28 10:40:59,881 - INFO - Successfully downloaded: do20250515p01.pdf
+2025-11-28 10:41:00,143 - INFO - Successfully downloaded: do20250515p02.pdf
+2025-11-28 10:41:00,435 - INFO - Successfully downloaded: do20250515p03.pdf
+2025-11-28 10:41:00,435 - INFO - Processing date: 20250516
+2025-11-28 10:41:00,482 - INFO - Found 3 files for date 20250516
+2025-11-28 10:41:00,794 - INFO - Successfully downloaded: do20250516p01.pdf
+2025-11-28 10:41:01,071 - INFO - Successfully downloaded: do20250516p02.pdf
+2025-11-28 10:41:01,346 - INFO - Successfully downloaded: do20250516p03.pdf
+2025-11-28 10:41:01,346 - INFO - Processing date: 20250517
+2025-11-28 10:41:01,408 - INFO - No publications found for date 20250517
+2025-11-28 10:41:01,408 - INFO - Processing date: 20250518
+2025-11-28 10:41:01,460 - INFO - No publications found for date 20250518
+2025-11-28 10:41:01,460 - INFO - Processing date: 20250519
+2025-11-28 10:41:01,504 - INFO - Found 3 files for date 20250519
+2025-11-28 10:41:01,825 - INFO - Successfully downloaded: do20250519p01.pdf
+2025-11-28 10:41:02,105 - INFO - Successfully downloaded: do20250519p02.pdf
+2025-11-28 10:41:02,371 - INFO - Successfully downloaded: do20250519p03.pdf
+2025-11-28 10:41:02,371 - INFO - Processing date: 20250520
+2025-11-28 10:41:02,447 - INFO - Found 2 files for date 20250520
+2025-11-28 10:41:02,746 - INFO - Successfully downloaded: do20250520p01.pdf
+2025-11-28 10:41:03,045 - INFO - Successfully downloaded: do20250520p02.pdf
+2025-11-28 10:41:03,045 - INFO - Processing date: 20250521
+2025-11-28 10:41:03,111 - INFO - Found 3 files for date 20250521
+2025-11-28 10:41:03,378 - INFO - Successfully downloaded: do20250521p01.pdf
+2025-11-28 10:41:03,679 - INFO - Successfully downloaded: do20250521p02.pdf
+2025-11-28 10:41:04,037 - INFO - Successfully downloaded: do20250521p03.pdf
+2025-11-28 10:41:04,037 - INFO - Processing date: 20250522
+2025-11-28 10:41:04,110 - INFO - Found 3 files for date 20250522
+2025-11-28 10:41:04,364 - INFO - Successfully downloaded: do20250522p01.pdf
+2025-11-28 10:41:04,758 - INFO - Successfully downloaded: do20250522p02.pdf
+2025-11-28 10:41:05,064 - INFO - Successfully downloaded: do20250522p03.pdf
+2025-11-28 10:41:05,064 - INFO - Processing date: 20250523
+2025-11-28 10:41:05,135 - INFO - Found 4 files for date 20250523
+2025-11-28 10:41:05,425 - INFO - Successfully downloaded: do20250523p01.pdf
+2025-11-28 10:41:05,720 - INFO - Successfully downloaded: do20250523p02.pdf
+2025-11-28 10:41:05,990 - INFO - Successfully downloaded: do20250523p03.pdf
+2025-11-28 10:41:06,274 - INFO - Successfully downloaded: do20250523p04.pdf
+2025-11-28 10:41:06,274 - INFO - Processing date: 20250524
+2025-11-28 10:41:06,328 - INFO - No publications found for date 20250524
+2025-11-28 10:41:06,328 - INFO - Processing date: 20250525
+2025-11-28 10:41:06,392 - INFO - No publications found for date 20250525
+2025-11-28 10:41:06,392 - INFO - Processing date: 20250526
+2025-11-28 10:41:06,503 - INFO - Found 2 files for date 20250526
+2025-11-28 10:41:06,761 - INFO - Successfully downloaded: do20250526p01.pdf
+2025-11-28 10:41:07,060 - INFO - Successfully downloaded: do20250526p02.pdf
+2025-11-28 10:41:07,060 - INFO - Processing date: 20250527
+2025-11-28 10:41:07,114 - INFO - Found 2 files for date 20250527
+2025-11-28 10:41:07,435 - INFO - Successfully downloaded: do20250527p01.pdf
+2025-11-28 10:41:07,757 - INFO - Successfully downloaded: do20250527p02.pdf
+2025-11-28 10:41:07,757 - INFO - Processing date: 20250528
+2025-11-28 10:41:07,836 - INFO - Found 3 files for date 20250528
+2025-11-28 10:41:08,103 - INFO - Successfully downloaded: do20250528p01.pdf
+2025-11-28 10:41:08,379 - INFO - Successfully downloaded: do20250528p02.pdf
+2025-11-28 10:41:08,667 - INFO - Successfully downloaded: do20250528p03.pdf
+2025-11-28 10:41:08,668 - INFO - Processing date: 20250529
+2025-11-28 10:41:08,727 - INFO - Found 4 files for date 20250529
+2025-11-28 10:41:08,984 - INFO - Successfully downloaded: do20250529p01.pdf
+2025-11-28 10:41:09,238 - INFO - Successfully downloaded: do20250529p02.pdf
+2025-11-28 10:41:09,482 - INFO - Successfully downloaded: do20250529p03.pdf
+2025-11-28 10:41:09,745 - INFO - Successfully downloaded: do20250529p04.pdf
+2025-11-28 10:41:09,745 - INFO - Processing date: 20250530
+2025-11-28 10:41:09,802 - INFO - Found 5 files for date 20250530
+2025-11-28 10:41:10,092 - INFO - Successfully downloaded: do20250530p01.pdf
+2025-11-28 10:41:10,376 - INFO - Successfully downloaded: do20250530p02.pdf
+2025-11-28 10:41:10,610 - INFO - Successfully downloaded: do20250530p03.pdf
+2025-11-28 10:41:10,818 - INFO - Successfully downloaded: do20250530p04.pdf
+2025-11-28 10:41:11,041 - INFO - Successfully downloaded: do20250530p05.pdf
+2025-11-28 10:41:11,042 - INFO - Processing date: 20250531
+2025-11-28 10:41:11,110 - INFO - No publications found for date 20250531
+2025-11-28 10:41:11,110 - INFO - Processing date: 20250601
+2025-11-28 10:41:11,166 - INFO - No publications found for date 20250601
+2025-11-28 10:41:11,166 - INFO - Processing date: 20250602
+2025-11-28 10:41:11,221 - INFO - Found 3 files for date 20250602
+2025-11-28 10:41:11,501 - INFO - Successfully downloaded: do20250602p01.pdf
+2025-11-28 10:41:11,758 - INFO - Successfully downloaded: do20250602p02.pdf
+2025-11-28 10:41:12,053 - INFO - Successfully downloaded: do20250602p03.pdf
+2025-11-28 10:41:12,053 - INFO - Processing date: 20250603
+2025-11-28 10:41:12,107 - INFO - Found 3 files for date 20250603
+2025-11-28 10:41:12,384 - INFO - Successfully downloaded: do20250603p01.pdf
+2025-11-28 10:41:12,666 - INFO - Successfully downloaded: do20250603p02.pdf
+2025-11-28 10:41:12,893 - INFO - Successfully downloaded: do20250603p03.pdf
+2025-11-28 10:41:12,893 - INFO - Processing date: 20250604
+2025-11-28 10:41:12,946 - INFO - Found 2 files for date 20250604
+2025-11-28 10:41:13,276 - INFO - Successfully downloaded: do20250604p01.pdf
+2025-11-28 10:41:13,610 - INFO - Successfully downloaded: do20250604p02.pdf
+2025-11-28 10:41:13,610 - INFO - Processing date: 20250605
+2025-11-28 10:41:13,678 - INFO - Found 3 files for date 20250605
+2025-11-28 10:41:13,994 - INFO - Successfully downloaded: do20250605p01.pdf
+2025-11-28 10:41:14,272 - INFO - Successfully downloaded: do20250605p02.pdf
+2025-11-28 10:41:14,566 - INFO - Successfully downloaded: do20250605p03.pdf
+2025-11-28 10:41:14,567 - INFO - Processing date: 20250606
+2025-11-28 10:41:14,616 - INFO - Found 3 files for date 20250606
+2025-11-28 10:41:15,085 - INFO - Successfully downloaded: do20250606p01.pdf
+2025-11-28 10:41:15,426 - INFO - Successfully downloaded: do20250606p02.pdf
+2025-11-28 10:41:15,715 - INFO - Successfully downloaded: do20250606p03.pdf
+2025-11-28 10:41:15,715 - INFO - Processing date: 20250607
+2025-11-28 10:41:15,763 - INFO - No publications found for date 20250607
+2025-11-28 10:41:15,763 - INFO - Processing date: 20250608
+2025-11-28 10:41:15,812 - INFO - No publications found for date 20250608
+2025-11-28 10:41:15,813 - INFO - Processing date: 20250609
+2025-11-28 10:41:15,874 - INFO - Found 2 files for date 20250609
+2025-11-28 10:41:16,152 - INFO - Successfully downloaded: do20250609p01.pdf
+2025-11-28 10:41:16,544 - INFO - Successfully downloaded: do20250609p02.pdf
+2025-11-28 10:41:16,544 - INFO - Processing date: 20250610
+2025-11-28 10:41:16,602 - INFO - Found 2 files for date 20250610
+2025-11-28 10:41:16,908 - INFO - Successfully downloaded: do20250610p01.pdf
+2025-11-28 10:41:17,225 - INFO - Successfully downloaded: do20250610p02.pdf
+2025-11-28 10:41:17,225 - INFO - Processing date: 20250611
+2025-11-28 10:41:17,277 - INFO - Found 9 files for date 20250611
+2025-11-28 10:41:17,584 - INFO - Successfully downloaded: do20250611p01.pdf
+2025-11-28 10:41:17,887 - INFO - Successfully downloaded: do20250611p02.pdf
+2025-11-28 10:41:18,240 - INFO - Successfully downloaded: do20250611p03.pdf
+2025-11-28 10:41:18,589 - INFO - Successfully downloaded: do20250611p04.pdf
+2025-11-28 10:41:18,897 - INFO - Successfully downloaded: do20250611p05.pdf
+2025-11-28 10:41:19,256 - INFO - Successfully downloaded: do20250611p06.pdf
+2025-11-28 10:41:19,578 - INFO - Successfully downloaded: do20250611p07.pdf
+2025-11-28 10:41:19,780 - INFO - Successfully downloaded: do20250611p08.pdf
+2025-11-28 10:41:20,024 - INFO - Successfully downloaded: do20250611p09.pdf
+2025-11-28 10:41:20,024 - INFO - Processing date: 20250612
+2025-11-28 10:41:20,083 - INFO - Found 2 files for date 20250612
+2025-11-28 10:41:20,396 - INFO - Successfully downloaded: do20250612p01.pdf
+2025-11-28 10:41:20,720 - INFO - Successfully downloaded: do20250612p02.pdf
+2025-11-28 10:41:20,720 - INFO - Processing date: 20250613
+2025-11-28 10:41:20,767 - INFO - Found 3 files for date 20250613
+2025-11-28 10:41:21,248 - INFO - Successfully downloaded: do20250613p01.pdf
+2025-11-28 10:41:21,595 - INFO - Successfully downloaded: do20250613p02.pdf
+2025-11-28 10:41:21,968 - INFO - Successfully downloaded: do20250613p03.pdf
+2025-11-28 10:41:21,969 - INFO - Processing date: 20250614
+2025-11-28 10:41:22,086 - INFO - No publications found for date 20250614
+2025-11-28 10:41:22,086 - INFO - Processing date: 20250615
+2025-11-28 10:41:22,140 - INFO - No publications found for date 20250615
+2025-11-28 10:41:22,140 - INFO - Processing date: 20250616
+2025-11-28 10:41:22,189 - INFO - Found 3 files for date 20250616
+2025-11-28 10:41:22,548 - INFO - Successfully downloaded: do20250616p01.pdf
+2025-11-28 10:41:22,871 - INFO - Successfully downloaded: do20250616p02.pdf
+2025-11-28 10:41:23,171 - INFO - Successfully downloaded: do20250616p03.pdf
+2025-11-28 10:41:23,172 - INFO - Processing date: 20250617
+2025-11-28 10:41:23,226 - INFO - Found 3 files for date 20250617
+2025-11-28 10:41:23,548 - INFO - Successfully downloaded: do20250617p01.pdf
+2025-11-28 10:41:23,834 - INFO - Successfully downloaded: do20250617p02.pdf
+2025-11-28 10:41:24,139 - INFO - Successfully downloaded: do20250617p03.pdf
+2025-11-28 10:41:24,140 - INFO - Processing date: 20250618
+2025-11-28 10:41:24,206 - INFO - Found 4 files for date 20250618
+2025-11-28 10:41:24,559 - INFO - Successfully downloaded: do20250618p01.pdf
+2025-11-28 10:41:24,817 - INFO - Successfully downloaded: do20250618p02.pdf
+2025-11-28 10:41:25,098 - INFO - Successfully downloaded: do20250618p03.pdf
+2025-11-28 10:41:25,420 - INFO - Successfully downloaded: do20250618p04.pdf
+2025-11-28 10:41:25,421 - INFO - Processing date: 20250619
+2025-11-28 10:41:25,489 - INFO - No publications found for date 20250619
+2025-11-28 10:41:25,489 - INFO - Processing date: 20250620
+2025-11-28 10:41:25,544 - INFO - No publications found for date 20250620
+2025-11-28 10:41:25,544 - INFO - Processing date: 20250621
+2025-11-28 10:41:25,601 - INFO - No publications found for date 20250621
+2025-11-28 10:41:25,602 - INFO - Processing date: 20250622
+2025-11-28 10:41:25,650 - INFO - No publications found for date 20250622
+2025-11-28 10:41:25,650 - INFO - Processing date: 20250623
+2025-11-28 10:41:25,714 - INFO - Found 4 files for date 20250623
+2025-11-28 10:41:26,036 - INFO - Successfully downloaded: do20250623p01.pdf
+2025-11-28 10:41:26,307 - INFO - Successfully downloaded: do20250623p02.pdf
+2025-11-28 10:41:26,563 - INFO - Successfully downloaded: do20250623p03.pdf
+2025-11-28 10:41:26,914 - INFO - Successfully downloaded: do20250623p04.pdf
+2025-11-28 10:41:26,914 - INFO - Processing date: 20250624
+2025-11-28 10:41:27,196 - INFO - Found 2 files for date 20250624
+2025-11-28 10:41:27,564 - INFO - Successfully downloaded: do20250624p01.pdf
+2025-11-28 10:41:27,916 - INFO - Successfully downloaded: do20250624p02.pdf
+2025-11-28 10:41:27,916 - INFO - Processing date: 20250625
+2025-11-28 10:41:28,038 - INFO - Found 3 files for date 20250625
+2025-11-28 10:41:28,398 - INFO - Successfully downloaded: do20250625p01.pdf
+2025-11-28 10:41:28,785 - INFO - Successfully downloaded: do20250625p02.pdf
+2025-11-28 10:41:29,099 - INFO - Successfully downloaded: do20250625p03.pdf
+2025-11-28 10:41:29,099 - INFO - Processing date: 20250626
+2025-11-28 10:41:29,149 - INFO - Found 2 files for date 20250626
+2025-11-28 10:41:29,545 - INFO - Successfully downloaded: do20250626p01.pdf
+2025-11-28 10:41:29,901 - INFO - Successfully downloaded: do20250626p02.pdf
+2025-11-28 10:41:29,901 - INFO - Processing date: 20250627
+2025-11-28 10:41:29,976 - INFO - Found 2 files for date 20250627
+2025-11-28 10:41:30,348 - INFO - Successfully downloaded: do20250627p01.pdf
+2025-11-28 10:41:30,849 - INFO - Successfully downloaded: do20250627p02.pdf
+2025-11-28 10:41:30,849 - INFO - Processing date: 20250628
+2025-11-28 10:41:30,906 - INFO - No publications found for date 20250628
+2025-11-28 10:41:30,906 - INFO - Processing date: 20250629
+2025-11-28 10:41:30,975 - INFO - No publications found for date 20250629
+2025-11-28 10:41:30,975 - INFO - Processing date: 20250630
+2025-11-28 10:41:31,028 - INFO - Found 2 files for date 20250630
+2025-11-28 10:41:31,371 - INFO - Successfully downloaded: do20250630p01.pdf
+2025-11-28 10:41:31,853 - INFO - Successfully downloaded: do20250630p02.pdf
+2025-11-28 10:41:31,853 - INFO - Processing date: 20250701
+2025-11-28 10:41:31,911 - INFO - Found 2 files for date 20250701
+2025-11-28 10:41:32,292 - INFO - Successfully downloaded: do20250701p01.pdf
+2025-11-28 10:41:32,738 - INFO - Successfully downloaded: do20250701p02.pdf
+2025-11-28 10:41:32,739 - INFO - Processing date: 20250702
+2025-11-28 10:41:32,792 - INFO - Found 4 files for date 20250702
+2025-11-28 10:41:33,137 - INFO - Successfully downloaded: do20250702p01.pdf
+2025-11-28 10:41:33,899 - INFO - Successfully downloaded: do20250702p02.pdf
+2025-11-28 10:41:34,189 - INFO - Successfully downloaded: do20250702p03.pdf
+2025-11-28 10:41:34,792 - INFO - Successfully downloaded: do20250702p04.pdf
+2025-11-28 10:41:34,792 - INFO - Processing date: 20250703
+2025-11-28 10:41:34,844 - INFO - Found 4 files for date 20250703
+2025-11-28 10:41:35,150 - INFO - Successfully downloaded: do20250703p01.pdf
+2025-11-28 10:41:35,567 - INFO - Successfully downloaded: do20250703p02.pdf
+2025-11-28 10:41:35,904 - INFO - Successfully downloaded: do20250703p03.pdf
+2025-11-28 10:41:36,216 - INFO - Successfully downloaded: do20250703p04.pdf
+2025-11-28 10:41:36,216 - INFO - Processing date: 20250704
+2025-11-28 10:41:36,309 - INFO - Found 4 files for date 20250704
+2025-11-28 10:41:36,659 - INFO - Successfully downloaded: do20250704p01.pdf
+2025-11-28 10:41:37,066 - INFO - Successfully downloaded: do20250704p02.pdf
+2025-11-28 10:41:37,402 - INFO - Successfully downloaded: do20250704p03.pdf
+2025-11-28 10:41:37,718 - INFO - Successfully downloaded: do20250704p04.pdf
+2025-11-28 10:41:37,719 - INFO - Processing date: 20250705
+2025-11-28 10:41:37,797 - INFO - No publications found for date 20250705
+2025-11-28 10:41:37,797 - INFO - Processing date: 20250706
+2025-11-28 10:41:37,840 - INFO - No publications found for date 20250706
+2025-11-28 10:41:37,840 - INFO - Processing date: 20250707
+2025-11-28 10:41:37,899 - INFO - Found 2 files for date 20250707
+2025-11-28 10:41:38,263 - INFO - Successfully downloaded: do20250707p01.pdf
+2025-11-28 10:41:38,634 - INFO - Successfully downloaded: do20250707p02.pdf
+2025-11-28 10:41:38,634 - INFO - Processing date: 20250708
+2025-11-28 10:41:38,697 - INFO - Found 3 files for date 20250708
+2025-11-28 10:41:39,667 - INFO - Successfully downloaded: do20250708p01.pdf
+2025-11-28 10:41:40,032 - INFO - Successfully downloaded: do20250708p02.pdf
+2025-11-28 10:41:40,357 - INFO - Successfully downloaded: do20250708p03.pdf
+2025-11-28 10:41:40,357 - INFO - Processing date: 20250709
+2025-11-28 10:41:40,441 - INFO - Found 4 files for date 20250709
+2025-11-28 10:41:40,870 - INFO - Successfully downloaded: do20250709p01.pdf
+2025-11-28 10:41:41,190 - INFO - Successfully downloaded: do20250709p02.pdf
+2025-11-28 10:41:41,509 - INFO - Successfully downloaded: do20250709p03.pdf
+2025-11-28 10:41:41,809 - INFO - Successfully downloaded: do20250709p04.pdf
+2025-11-28 10:41:41,809 - INFO - Processing date: 20250710
+2025-11-28 10:41:41,867 - INFO - Found 3 files for date 20250710
+2025-11-28 10:41:42,208 - INFO - Successfully downloaded: do20250710p01.pdf
+2025-11-28 10:41:42,568 - INFO - Successfully downloaded: do20250710p02.pdf
+2025-11-28 10:41:42,929 - INFO - Successfully downloaded: do20250710p03.pdf
+2025-11-28 10:41:42,929 - INFO - Processing date: 20250711
+2025-11-28 10:41:42,982 - INFO - Found 2 files for date 20250711
+2025-11-28 10:41:43,357 - INFO - Successfully downloaded: do20250711p01.pdf
+2025-11-28 10:41:43,762 - INFO - Successfully downloaded: do20250711p02.pdf
+2025-11-28 10:41:43,763 - INFO - Processing date: 20250712
+2025-11-28 10:41:43,856 - INFO - No publications found for date 20250712
+2025-11-28 10:41:43,856 - INFO - Processing date: 20250713
+2025-11-28 10:41:43,925 - INFO - No publications found for date 20250713
+2025-11-28 10:41:43,925 - INFO - Processing date: 20250714
+2025-11-28 10:41:43,995 - INFO - Found 4 files for date 20250714
+2025-11-28 10:41:44,555 - INFO - Successfully downloaded: do20250714p01.pdf
+2025-11-28 10:41:44,827 - INFO - Successfully downloaded: do20250714p02.pdf
+2025-11-28 10:41:45,055 - INFO - Successfully downloaded: do20250714p03.pdf
+2025-11-28 10:41:45,375 - INFO - Successfully downloaded: do20250714p04.pdf
+2025-11-28 10:41:45,375 - INFO - Processing date: 20250715
+2025-11-28 10:41:45,477 - INFO - Found 3 files for date 20250715
+2025-11-28 10:41:45,833 - INFO - Successfully downloaded: do20250715p01.pdf
+2025-11-28 10:41:46,162 - INFO - Successfully downloaded: do20250715p02.pdf
+2025-11-28 10:41:46,565 - INFO - Successfully downloaded: do20250715p03.pdf
+2025-11-28 10:41:46,565 - INFO - Processing date: 20250716
+2025-11-28 10:41:46,622 - INFO - Found 3 files for date 20250716
+2025-11-28 10:41:47,682 - INFO - Successfully downloaded: do20250716p01.pdf
+2025-11-28 10:41:48,034 - INFO - Successfully downloaded: do20250716p02.pdf
+2025-11-28 10:41:48,339 - INFO - Successfully downloaded: do20250716p03.pdf
+2025-11-28 10:41:48,339 - INFO - Processing date: 20250717
+2025-11-28 10:41:48,391 - INFO - Found 3 files for date 20250717
+2025-11-28 10:41:48,670 - INFO - Successfully downloaded: do20250717p01.pdf
+2025-11-28 10:41:48,915 - INFO - Successfully downloaded: do20250717p02.pdf
+2025-11-28 10:41:49,233 - INFO - Successfully downloaded: do20250717p03.pdf
+2025-11-28 10:41:49,233 - INFO - Processing date: 20250718
+2025-11-28 10:41:49,290 - INFO - Found 2 files for date 20250718
+2025-11-28 10:41:49,590 - INFO - Successfully downloaded: do20250718p01.pdf
+2025-11-28 10:41:50,239 - INFO - Successfully downloaded: do20250718p02.pdf
+2025-11-28 10:41:50,239 - INFO - Processing date: 20250719
+2025-11-28 10:41:50,300 - INFO - No publications found for date 20250719
+2025-11-28 10:41:50,301 - INFO - Processing date: 20250720
+2025-11-28 10:41:50,354 - INFO - No publications found for date 20250720
+2025-11-28 10:41:50,354 - INFO - Processing date: 20250721
+2025-11-28 10:41:50,399 - INFO - Found 2 files for date 20250721
+2025-11-28 10:41:50,774 - INFO - Successfully downloaded: do20250721p01.pdf
+2025-11-28 10:41:51,120 - INFO - Successfully downloaded: do20250721p02.pdf
+2025-11-28 10:41:51,120 - INFO - Processing date: 20250722
+2025-11-28 10:41:51,193 - INFO - Found 2 files for date 20250722
+2025-11-28 10:41:51,532 - INFO - Successfully downloaded: do20250722p01.pdf
+2025-11-28 10:41:51,828 - INFO - Successfully downloaded: do20250722p02.pdf
+2025-11-28 10:41:51,828 - INFO - Processing date: 20250723
+2025-11-28 10:41:51,879 - INFO - Found 3 files for date 20250723
+2025-11-28 10:41:52,237 - INFO - Successfully downloaded: do20250723p01.pdf
+2025-11-28 10:41:52,555 - INFO - Successfully downloaded: do20250723p02.pdf
+2025-11-28 10:41:52,987 - INFO - Successfully downloaded: do20250723p03.pdf
+2025-11-28 10:41:52,987 - INFO - Processing date: 20250724
+2025-11-28 10:41:53,045 - INFO - Found 3 files for date 20250724
+2025-11-28 10:41:53,375 - INFO - Successfully downloaded: do20250724p01.pdf
+2025-11-28 10:41:53,684 - INFO - Successfully downloaded: do20250724p02.pdf
+2025-11-28 10:41:53,988 - INFO - Successfully downloaded: do20250724p03.pdf
+2025-11-28 10:41:53,989 - INFO - Processing date: 20250725
+2025-11-28 10:41:54,082 - INFO - Found 2 files for date 20250725
+2025-11-28 10:41:54,412 - INFO - Successfully downloaded: do20250725p01.pdf
+2025-11-28 10:41:54,769 - INFO - Successfully downloaded: do20250725p02.pdf
+2025-11-28 10:41:54,769 - INFO - Processing date: 20250726
+2025-11-28 10:41:54,820 - INFO - No publications found for date 20250726
+2025-11-28 10:41:54,820 - INFO - Processing date: 20250727
+2025-11-28 10:41:54,893 - INFO - No publications found for date 20250727
+2025-11-28 10:41:54,894 - INFO - Processing date: 20250728
+2025-11-28 10:41:54,940 - INFO - Found 4 files for date 20250728
+2025-11-28 10:41:55,227 - INFO - Successfully downloaded: do20250728p01.pdf
+2025-11-28 10:41:55,603 - INFO - Successfully downloaded: do20250728p02.pdf
+2025-11-28 10:41:55,938 - INFO - Successfully downloaded: do20250728p03.pdf
+2025-11-28 10:41:57,657 - INFO - Successfully downloaded: do20250728p04.pdf
+2025-11-28 10:41:57,657 - INFO - Processing date: 20250729
+2025-11-28 10:41:57,708 - INFO - Found 3 files for date 20250729
+2025-11-28 10:41:58,472 - INFO - Successfully downloaded: do20250729p01.pdf
+2025-11-28 10:41:58,798 - INFO - Successfully downloaded: do20250729p02.pdf
+2025-11-28 10:41:59,104 - INFO - Successfully downloaded: do20250729p03.pdf
+2025-11-28 10:41:59,104 - INFO - Processing date: 20250730
+2025-11-28 10:41:59,169 - INFO - Found 3 files for date 20250730
+2025-11-28 10:41:59,720 - INFO - Successfully downloaded: do20250730p01.pdf
+2025-11-28 10:42:00,435 - INFO - Successfully downloaded: do20250730p02.pdf
+2025-11-28 10:42:00,979 - INFO - Successfully downloaded: do20250730p03.pdf
+2025-11-28 10:42:00,980 - INFO - Processing date: 20250731
+2025-11-28 10:42:01,042 - INFO - Found 2 files for date 20250731
+2025-11-28 10:42:01,395 - INFO - Successfully downloaded: do20250731p01.pdf
+2025-11-28 10:42:01,740 - INFO - Successfully downloaded: do20250731p02.pdf
+2025-11-28 10:42:01,740 - INFO - Processing date: 20250801
+2025-11-28 10:42:01,821 - INFO - Found 3 files for date 20250801
+2025-11-28 10:42:02,296 - INFO - Successfully downloaded: do20250801p01.pdf
+2025-11-28 10:42:02,571 - INFO - Successfully downloaded: do20250801p02.pdf
+2025-11-28 10:42:03,142 - INFO - Successfully downloaded: do20250801p03.pdf
+2025-11-28 10:42:03,142 - INFO - Processing date: 20250802
+2025-11-28 10:42:03,191 - INFO - No publications found for date 20250802
+2025-11-28 10:42:03,192 - INFO - Processing date: 20250803
+2025-11-28 10:42:03,245 - INFO - No publications found for date 20250803
+2025-11-28 10:42:03,245 - INFO - Processing date: 20250804
+2025-11-28 10:42:03,298 - INFO - Found 2 files for date 20250804
+2025-11-28 10:42:03,761 - INFO - Successfully downloaded: do20250804p01.pdf
+2025-11-28 10:42:04,190 - INFO - Successfully downloaded: do20250804p02.pdf
+2025-11-28 10:42:04,190 - INFO - Processing date: 20250805
+2025-11-28 10:42:04,237 - INFO - Found 2 files for date 20250805
+2025-11-28 10:42:04,532 - INFO - Successfully downloaded: do20250805p01.pdf
+2025-11-28 10:42:04,871 - INFO - Successfully downloaded: do20250805p02.pdf
+2025-11-28 10:42:04,872 - INFO - Processing date: 20250806
+2025-11-28 10:42:04,937 - INFO - Found 3 files for date 20250806
+2025-11-28 10:42:05,357 - INFO - Successfully downloaded: do20250806p01.pdf
+2025-11-28 10:42:05,671 - INFO - Successfully downloaded: do20250806p02.pdf
+2025-11-28 10:42:05,975 - INFO - Successfully downloaded: do20250806p03.pdf
+2025-11-28 10:42:05,975 - INFO - Processing date: 20250807
+2025-11-28 10:42:06,040 - INFO - Found 3 files for date 20250807
+2025-11-28 10:42:06,349 - INFO - Successfully downloaded: do20250807p01.pdf
+2025-11-28 10:42:06,631 - INFO - Successfully downloaded: do20250807p02.pdf
+2025-11-28 10:42:06,982 - INFO - Successfully downloaded: do20250807p03.pdf
+2025-11-28 10:42:06,982 - INFO - Processing date: 20250808
+2025-11-28 10:42:07,038 - INFO - Found 4 files for date 20250808
+2025-11-28 10:42:07,759 - INFO - Successfully downloaded: do20250808p01.pdf
+2025-11-28 10:42:08,094 - INFO - Successfully downloaded: do20250808p02.pdf
+2025-11-28 10:42:08,479 - INFO - Successfully downloaded: do20250808p03.pdf
+2025-11-28 10:42:08,876 - INFO - Successfully downloaded: do20250808p04.pdf
+2025-11-28 10:42:08,877 - INFO - Processing date: 20250809
+2025-11-28 10:42:08,953 - INFO - No publications found for date 20250809
+2025-11-28 10:42:08,953 - INFO - Processing date: 20250810
+2025-11-28 10:42:09,012 - INFO - No publications found for date 20250810
+2025-11-28 10:42:09,012 - INFO - Processing date: 20250811
+2025-11-28 10:42:09,055 - INFO - Found 3 files for date 20250811
+2025-11-28 10:42:09,409 - INFO - Successfully downloaded: do20250811p01.pdf
+2025-11-28 10:42:09,776 - INFO - Successfully downloaded: do20250811p02.pdf
+2025-11-28 10:42:10,160 - INFO - Successfully downloaded: do20250811p03.pdf
+2025-11-28 10:42:10,160 - INFO - Processing date: 20250812
+2025-11-28 10:42:10,210 - INFO - Found 4 files for date 20250812
+2025-11-28 10:42:10,540 - INFO - Successfully downloaded: do20250812p01.pdf
+2025-11-28 10:42:10,826 - INFO - Successfully downloaded: do20250812p02.pdf
+2025-11-28 10:42:11,158 - INFO - Successfully downloaded: do20250812p03.pdf
+2025-11-28 10:42:11,604 - INFO - Successfully downloaded: do20250812p04.pdf
+2025-11-28 10:42:11,605 - INFO - Processing date: 20250813
+2025-11-28 10:42:11,692 - INFO - Found 7 files for date 20250813
+2025-11-28 10:42:12,007 - INFO - Successfully downloaded: do20250813p01.pdf
+2025-11-28 10:42:12,337 - INFO - Successfully downloaded: do20250813p02.pdf
+2025-11-28 10:42:12,637 - INFO - Successfully downloaded: do20250813p03.pdf
+2025-11-28 10:42:13,061 - INFO - Successfully downloaded: do20250813p04.pdf
+2025-11-28 10:42:13,338 - INFO - Successfully downloaded: do20250813p05.pdf
+2025-11-28 10:42:13,627 - INFO - Successfully downloaded: do20250813p06.pdf
+2025-11-28 10:42:14,144 - INFO - Successfully downloaded: do20250813p07.pdf
+2025-11-28 10:42:14,145 - INFO - Processing date: 20250814
+2025-11-28 10:42:14,199 - INFO - Found 15 files for date 20250814
+2025-11-28 10:42:14,840 - INFO - Successfully downloaded: do20250814p01.pdf
+2025-11-28 10:42:15,143 - INFO - Successfully downloaded: do20250814p02.pdf
+2025-11-28 10:42:15,431 - INFO - Successfully downloaded: do20250814p03.pdf
+2025-11-28 10:42:15,663 - INFO - Successfully downloaded: do20250814p04.pdf
+2025-11-28 10:42:15,925 - INFO - Successfully downloaded: do20250814p05.pdf
+2025-11-28 10:42:16,574 - INFO - Successfully downloaded: do20250814p06.pdf
+2025-11-28 10:42:16,979 - INFO - Successfully downloaded: do20250814p07.pdf
+2025-11-28 10:42:17,232 - INFO - Successfully downloaded: do20250814p08.pdf
+2025-11-28 10:42:17,490 - INFO - Successfully downloaded: do20250814p09.pdf
+2025-11-28 10:42:17,756 - INFO - Successfully downloaded: do20250814p10.pdf
+2025-11-28 10:42:19,087 - INFO - Successfully downloaded: do20250814p11.pdf
+2025-11-28 10:42:20,381 - INFO - Successfully downloaded: do20250814p12.pdf
+2025-11-28 10:42:21,740 - INFO - Successfully downloaded: do20250814p13.pdf
+2025-11-28 10:42:22,493 - INFO - Successfully downloaded: do20250814p14.pdf
+2025-11-28 10:42:22,917 - INFO - Successfully downloaded: do20250814p15.pdf
+2025-11-28 10:42:22,917 - INFO - Processing date: 20250815
+2025-11-28 10:42:22,993 - INFO - No publications found for date 20250815
+2025-11-28 10:42:22,993 - INFO - Processing date: 20250816
+2025-11-28 10:42:23,059 - INFO - No publications found for date 20250816
+2025-11-28 10:42:23,059 - INFO - Processing date: 20250817
+2025-11-28 10:42:23,110 - INFO - No publications found for date 20250817
+2025-11-28 10:42:23,110 - INFO - Processing date: 20250818
+2025-11-28 10:42:23,179 - INFO - Found 2 files for date 20250818
+2025-11-28 10:42:23,467 - INFO - Successfully downloaded: do20250818p01.pdf
+2025-11-28 10:42:23,714 - INFO - Successfully downloaded: do20250818p02.pdf
+2025-11-28 10:42:23,715 - INFO - Processing date: 20250819
+2025-11-28 10:42:23,769 - INFO - Found 2 files for date 20250819
+2025-11-28 10:42:24,048 - INFO - Successfully downloaded: do20250819p01.pdf
+2025-11-28 10:42:24,383 - INFO - Successfully downloaded: do20250819p02.pdf
+2025-11-28 10:42:24,383 - INFO - Processing date: 20250820
+2025-11-28 10:42:24,444 - INFO - Found 3 files for date 20250820
+2025-11-28 10:42:24,693 - INFO - Successfully downloaded: do20250820p01.pdf
+2025-11-28 10:42:24,972 - INFO - Successfully downloaded: do20250820p02.pdf
+2025-11-28 10:42:25,205 - INFO - Successfully downloaded: do20250820p03.pdf
+2025-11-28 10:42:25,205 - INFO - Processing date: 20250821
+2025-11-28 10:42:25,305 - INFO - Found 3 files for date 20250821
+2025-11-28 10:42:25,621 - INFO - Successfully downloaded: do20250821p01.pdf
+2025-11-28 10:42:25,909 - INFO - Successfully downloaded: do20250821p02.pdf
+2025-11-28 10:42:26,194 - INFO - Successfully downloaded: do20250821p03.pdf
+2025-11-28 10:42:26,194 - INFO - Processing date: 20250822
+2025-11-28 10:42:26,253 - INFO - Found 4 files for date 20250822
+2025-11-28 10:42:26,585 - INFO - Successfully downloaded: do20250822p01.pdf
+2025-11-28 10:42:26,858 - INFO - Successfully downloaded: do20250822p02.pdf
+2025-11-28 10:42:27,108 - INFO - Successfully downloaded: do20250822p03.pdf
+2025-11-28 10:42:27,433 - INFO - Successfully downloaded: do20250822p04.pdf
+2025-11-28 10:42:27,433 - INFO - Processing date: 20250823
+2025-11-28 10:42:27,522 - INFO - No publications found for date 20250823
+2025-11-28 10:42:27,522 - INFO - Processing date: 20250824
+2025-11-28 10:42:27,577 - INFO - No publications found for date 20250824
+2025-11-28 10:42:27,577 - INFO - Processing date: 20250825
+2025-11-28 10:42:27,621 - INFO - Found 3 files for date 20250825
+2025-11-28 10:42:27,881 - INFO - Successfully downloaded: do20250825p01.pdf
+2025-11-28 10:42:28,173 - INFO - Successfully downloaded: do20250825p02.pdf
+2025-11-28 10:42:28,413 - INFO - Successfully downloaded: do20250825p03.pdf
+2025-11-28 10:42:28,414 - INFO - Processing date: 20250826
+2025-11-28 10:42:28,471 - INFO - Found 4 files for date 20250826
+2025-11-28 10:42:28,727 - INFO - Successfully downloaded: do20250826p01.pdf
+2025-11-28 10:42:28,975 - INFO - Successfully downloaded: do20250826p02.pdf
+2025-11-28 10:42:29,227 - INFO - Successfully downloaded: do20250826p03.pdf
+2025-11-28 10:42:29,531 - INFO - Successfully downloaded: do20250826p04.pdf
+2025-11-28 10:42:29,532 - INFO - Processing date: 20250827
+2025-11-28 10:42:29,626 - INFO - Found 2 files for date 20250827
+2025-11-28 10:42:29,888 - INFO - Successfully downloaded: do20250827p01.pdf
+2025-11-28 10:42:30,211 - INFO - Successfully downloaded: do20250827p02.pdf
+2025-11-28 10:42:30,211 - INFO - Processing date: 20250828
+2025-11-28 10:42:30,267 - INFO - Found 4 files for date 20250828
+2025-11-28 10:42:30,551 - INFO - Successfully downloaded: do20250828p01.pdf
+2025-11-28 10:42:30,849 - INFO - Successfully downloaded: do20250828p02.pdf
+2025-11-28 10:42:31,072 - INFO - Successfully downloaded: do20250828p03.pdf
+2025-11-28 10:42:31,293 - INFO - Successfully downloaded: do20250828p04.pdf
+2025-11-28 10:42:31,294 - INFO - Processing date: 20250829
+2025-11-28 10:42:31,362 - INFO - Found 4 files for date 20250829
+2025-11-28 10:42:31,684 - INFO - Successfully downloaded: do20250829p01.pdf
+2025-11-28 10:42:31,986 - INFO - Successfully downloaded: do20250829p02.pdf
+2025-11-28 10:42:32,249 - INFO - Successfully downloaded: do20250829p03.pdf
+2025-11-28 10:42:32,490 - INFO - Successfully downloaded: do20250829p04.pdf
+2025-11-28 10:42:32,490 - INFO - Processing date: 20250830
+2025-11-28 10:42:32,533 - INFO - No publications found for date 20250830
+2025-11-28 10:42:32,533 - INFO - Processing date: 20250831
+2025-11-28 10:42:32,610 - INFO - No publications found for date 20250831
+2025-11-28 10:42:32,610 - INFO - Processing date: 20250901
+2025-11-28 10:42:32,660 - INFO - Found 2 files for date 20250901
+2025-11-28 10:42:32,997 - INFO - Successfully downloaded: do20250901p01.pdf
+2025-11-28 10:42:33,328 - INFO - Successfully downloaded: do20250901p02.pdf
+2025-11-28 10:42:33,329 - INFO - Processing date: 20250902
+2025-11-28 10:42:33,404 - INFO - Found 4 files for date 20250902
+2025-11-28 10:42:34,357 - INFO - Successfully downloaded: do20250902p01.pdf
+2025-11-28 10:42:34,626 - INFO - Successfully downloaded: do20250902p02.pdf
+2025-11-28 10:42:34,998 - INFO - Successfully downloaded: do20250902p03.pdf
+2025-11-28 10:42:35,273 - INFO - Successfully downloaded: do20250902p04.pdf
+2025-11-28 10:42:35,273 - INFO - Processing date: 20250903
+2025-11-28 10:42:35,380 - INFO - Found 3 files for date 20250903
+2025-11-28 10:42:35,653 - INFO - Successfully downloaded: do20250903p01.pdf
+2025-11-28 10:42:35,917 - INFO - Successfully downloaded: do20250903p02.pdf
+2025-11-28 10:42:36,239 - INFO - Successfully downloaded: do20250903p03.pdf
+2025-11-28 10:42:36,240 - INFO - Processing date: 20250904
+2025-11-28 10:42:36,289 - INFO - Found 2 files for date 20250904
+2025-11-28 10:42:36,542 - INFO - Successfully downloaded: do20250904p01.pdf
+2025-11-28 10:42:37,328 - INFO - Successfully downloaded: do20250904p02.pdf
+2025-11-28 10:42:37,328 - INFO - Processing date: 20250905
+2025-11-28 10:42:37,414 - INFO - Found 2 files for date 20250905
+2025-11-28 10:42:37,732 - INFO - Successfully downloaded: do20250905p01.pdf
+2025-11-28 10:42:38,070 - INFO - Successfully downloaded: do20250905p02.pdf
+2025-11-28 10:42:38,071 - INFO - Processing date: 20250906
+2025-11-28 10:42:38,141 - INFO - No publications found for date 20250906
+2025-11-28 10:42:38,141 - INFO - Processing date: 20250907
+2025-11-28 10:42:38,181 - INFO - No publications found for date 20250907
+2025-11-28 10:42:38,181 - INFO - Processing date: 20250908
+2025-11-28 10:42:38,233 - INFO - Found 3 files for date 20250908
+2025-11-28 10:42:38,710 - INFO - Successfully downloaded: do20250908p01.pdf
+2025-11-28 10:42:39,018 - INFO - Successfully downloaded: do20250908p02.pdf
+2025-11-28 10:42:39,485 - INFO - Successfully downloaded: do20250908p03.pdf
+2025-11-28 10:42:39,486 - INFO - Processing date: 20250909
+2025-11-28 10:42:39,543 - INFO - Found 2 files for date 20250909
+2025-11-28 10:42:39,940 - INFO - Successfully downloaded: do20250909p01.pdf
+2025-11-28 10:42:40,231 - INFO - Successfully downloaded: do20250909p02.pdf
+2025-11-28 10:42:40,231 - INFO - Processing date: 20250910
+2025-11-28 10:42:40,290 - INFO - Found 5 files for date 20250910
+2025-11-28 10:42:40,677 - INFO - Successfully downloaded: do20250910p01.pdf
+2025-11-28 10:42:40,971 - INFO - Successfully downloaded: do20250910p02.pdf
+2025-11-28 10:42:41,274 - INFO - Successfully downloaded: do20250910p03.pdf
+2025-11-28 10:42:41,561 - INFO - Successfully downloaded: do20250910p04.pdf
+2025-11-28 10:42:41,863 - INFO - Successfully downloaded: do20250910p05.pdf
+2025-11-28 10:42:41,863 - INFO - Processing date: 20250911
+2025-11-28 10:42:41,916 - INFO - Found 6 files for date 20250911
+2025-11-28 10:42:42,222 - INFO - Successfully downloaded: do20250911p01.pdf
+2025-11-28 10:42:42,510 - INFO - Successfully downloaded: do20250911p02.pdf
+2025-11-28 10:42:42,751 - INFO - Successfully downloaded: do20250911p03.pdf
+2025-11-28 10:42:43,508 - INFO - Successfully downloaded: do20250911p04.pdf
+2025-11-28 10:42:44,112 - INFO - Successfully downloaded: do20250911p05.pdf
+2025-11-28 10:42:44,476 - INFO - Successfully downloaded: do20250911p06.pdf
+2025-11-28 10:42:44,476 - INFO - Processing date: 20250912
+2025-11-28 10:42:44,527 - INFO - Found 2 files for date 20250912
+2025-11-28 10:42:44,986 - INFO - Successfully downloaded: do20250912p01.pdf
+2025-11-28 10:42:45,402 - INFO - Successfully downloaded: do20250912p02.pdf
+2025-11-28 10:42:45,402 - INFO - Processing date: 20250913
+2025-11-28 10:42:45,467 - INFO - No publications found for date 20250913
+2025-11-28 10:42:45,467 - INFO - Processing date: 20250914
+2025-11-28 10:42:45,511 - INFO - No publications found for date 20250914
+2025-11-28 10:42:45,511 - INFO - Processing date: 20250915
+2025-11-28 10:42:45,558 - INFO - Found 2 files for date 20250915
+2025-11-28 10:42:45,892 - INFO - Successfully downloaded: do20250915p01.pdf
+2025-11-28 10:42:46,199 - INFO - Successfully downloaded: do20250915p02.pdf
+2025-11-28 10:42:46,199 - INFO - Processing date: 20250916
+2025-11-28 10:42:46,244 - INFO - Found 2 files for date 20250916
+2025-11-28 10:42:46,564 - INFO - Successfully downloaded: do20250916p01.pdf
+2025-11-28 10:42:47,065 - INFO - Successfully downloaded: do20250916p02.pdf
+2025-11-28 10:42:47,065 - INFO - Processing date: 20250917
+2025-11-28 10:42:47,120 - INFO - Found 3 files for date 20250917
+2025-11-28 10:42:47,672 - INFO - Successfully downloaded: do20250917p01.pdf
+2025-11-28 10:42:48,237 - INFO - Successfully downloaded: do20250917p02.pdf
+2025-11-28 10:42:48,558 - INFO - Successfully downloaded: do20250917p03.pdf
+2025-11-28 10:42:48,558 - INFO - Processing date: 20250918
+2025-11-28 10:42:48,629 - INFO - Found 2 files for date 20250918
+2025-11-28 10:42:48,968 - INFO - Successfully downloaded: do20250918p01.pdf
+2025-11-28 10:42:49,574 - INFO - Successfully downloaded: do20250918p02.pdf
+2025-11-28 10:42:49,574 - INFO - Processing date: 20250919
+2025-11-28 10:42:49,644 - INFO - Found 3 files for date 20250919
+2025-11-28 10:42:49,971 - INFO - Successfully downloaded: do20250919p01.pdf
+2025-11-28 10:42:50,369 - INFO - Successfully downloaded: do20250919p02.pdf
+2025-11-28 10:42:50,766 - INFO - Successfully downloaded: do20250919p03.pdf
+2025-11-28 10:42:50,766 - INFO - Processing date: 20250920
+2025-11-28 10:42:50,828 - INFO - No publications found for date 20250920
+2025-11-28 10:42:50,829 - INFO - Processing date: 20250921
+2025-11-28 10:42:50,876 - INFO - No publications found for date 20250921
+2025-11-28 10:42:50,876 - INFO - Processing date: 20250922
+2025-11-28 10:42:50,948 - INFO - Found 3 files for date 20250922
+2025-11-28 10:42:51,259 - INFO - Successfully downloaded: do20250922p01.pdf
+2025-11-28 10:42:51,625 - INFO - Successfully downloaded: do20250922p02.pdf
+2025-11-28 10:42:51,945 - INFO - Successfully downloaded: do20250922p03.pdf
+2025-11-28 10:42:51,945 - INFO - Processing date: 20250923
+2025-11-28 10:42:52,004 - INFO - Found 3 files for date 20250923
+2025-11-28 10:42:52,435 - INFO - Successfully downloaded: do20250923p01.pdf
+2025-11-28 10:42:52,792 - INFO - Successfully downloaded: do20250923p02.pdf
+2025-11-28 10:42:53,120 - INFO - Successfully downloaded: do20250923p03.pdf
+2025-11-28 10:42:53,120 - INFO - Processing date: 20250924
+2025-11-28 10:42:53,172 - INFO - Found 2 files for date 20250924
+2025-11-28 10:42:53,551 - INFO - Successfully downloaded: do20250924p01.pdf
+2025-11-28 10:42:53,889 - INFO - Successfully downloaded: do20250924p02.pdf
+2025-11-28 10:42:53,889 - INFO - Processing date: 20250925
+2025-11-28 10:42:53,932 - INFO - Found 2 files for date 20250925
+2025-11-28 10:42:54,292 - INFO - Successfully downloaded: do20250925p01.pdf
+2025-11-28 10:42:54,748 - INFO - Successfully downloaded: do20250925p02.pdf
+2025-11-28 10:42:54,748 - INFO - Processing date: 20250926
+2025-11-28 10:42:54,795 - INFO - Found 2 files for date 20250926
+2025-11-28 10:42:55,139 - INFO - Successfully downloaded: do20250926p01.pdf
+2025-11-28 10:42:55,466 - INFO - Successfully downloaded: do20250926p02.pdf
+2025-11-28 10:42:55,466 - INFO - Processing date: 20250927
+2025-11-28 10:42:55,549 - INFO - No publications found for date 20250927
+2025-11-28 10:42:55,549 - INFO - Processing date: 20250928
+2025-11-28 10:42:55,593 - INFO - No publications found for date 20250928
+2025-11-28 10:42:55,593 - INFO - Processing date: 20250929
+2025-11-28 10:42:55,653 - INFO - Found 3 files for date 20250929
+2025-11-28 10:42:55,992 - INFO - Successfully downloaded: do20250929p01.pdf
+2025-11-28 10:42:56,300 - INFO - Successfully downloaded: do20250929p02.pdf
+2025-11-28 10:42:56,766 - INFO - Successfully downloaded: do20250929p03.pdf
+2025-11-28 10:42:56,767 - INFO - Processing date: 20250930
+2025-11-28 10:42:56,832 - INFO - Found 3 files for date 20250930
+2025-11-28 10:42:57,296 - INFO - Successfully downloaded: do20250930p01.pdf
+2025-11-28 10:42:57,687 - INFO - Successfully downloaded: do20250930p02.pdf
+2025-11-28 10:42:57,988 - INFO - Successfully downloaded: do20250930p03.pdf
+2025-11-28 10:42:57,988 - INFO - Processing date: 20251001
+2025-11-28 10:42:58,045 - INFO - Found 8 files for date 20251001
+2025-11-28 10:42:58,382 - INFO - Successfully downloaded: do20251001p01.pdf
+2025-11-28 10:42:58,675 - INFO - Successfully downloaded: do20251001p02.pdf
+2025-11-28 10:42:58,939 - INFO - Successfully downloaded: do20251001p03.pdf
+2025-11-28 10:42:59,232 - INFO - Successfully downloaded: do20251001p04.pdf
+2025-11-28 10:42:59,507 - INFO - Successfully downloaded: do20251001p05.pdf
+2025-11-28 10:42:59,800 - INFO - Successfully downloaded: do20251001p06.pdf
+2025-11-28 10:43:00,062 - INFO - Successfully downloaded: do20251001p07.pdf
+2025-11-28 10:43:00,356 - INFO - Successfully downloaded: do20251001p08.pdf
+2025-11-28 10:43:00,357 - INFO - Processing date: 20251002
+2025-11-28 10:43:00,399 - INFO - Found 3 files for date 20251002
+2025-11-28 10:43:00,740 - INFO - Successfully downloaded: do20251002p01.pdf
+2025-11-28 10:43:01,058 - INFO - Successfully downloaded: do20251002p02.pdf
+2025-11-28 10:43:01,407 - INFO - Successfully downloaded: do20251002p03.pdf
+2025-11-28 10:43:01,407 - INFO - Processing date: 20251003
+2025-11-28 10:43:01,468 - INFO - Found 3 files for date 20251003
+2025-11-28 10:43:01,875 - INFO - Successfully downloaded: do20251003p01.pdf
+2025-11-28 10:43:02,246 - INFO - Successfully downloaded: do20251003p02.pdf
+2025-11-28 10:43:02,743 - INFO - Successfully downloaded: do20251003p03.pdf
+2025-11-28 10:43:02,743 - INFO - Processing date: 20251004
+2025-11-28 10:43:02,814 - INFO - No publications found for date 20251004
+2025-11-28 10:43:02,814 - INFO - Processing date: 20251005
+2025-11-28 10:43:02,858 - INFO - No publications found for date 20251005
+2025-11-28 10:43:02,858 - INFO - Processing date: 20251006
+2025-11-28 10:43:02,933 - INFO - Found 4 files for date 20251006
+2025-11-28 10:43:04,151 - INFO - Successfully downloaded: do20251006p01.pdf
+2025-11-28 10:43:04,481 - INFO - Successfully downloaded: do20251006p02.pdf
+2025-11-28 10:43:04,862 - INFO - Successfully downloaded: do20251006p03.pdf
+2025-11-28 10:43:05,328 - INFO - Successfully downloaded: do20251006p04.pdf
+2025-11-28 10:43:05,328 - INFO - Processing date: 20251007
+2025-11-28 10:43:05,412 - INFO - Found 2 files for date 20251007
+2025-11-28 10:43:05,724 - INFO - Successfully downloaded: do20251007p01.pdf
+2025-11-28 10:43:06,056 - INFO - Successfully downloaded: do20251007p02.pdf
+2025-11-28 10:43:06,057 - INFO - Processing date: 20251008
+2025-11-28 10:43:06,106 - INFO - Found 3 files for date 20251008
+2025-11-28 10:43:06,504 - INFO - Successfully downloaded: do20251008p01.pdf
+2025-11-28 10:43:06,845 - INFO - Successfully downloaded: do20251008p02.pdf
+2025-11-28 10:43:07,170 - INFO - Successfully downloaded: do20251008p03.pdf
+2025-11-28 10:43:07,171 - INFO - Processing date: 20251009
+2025-11-28 10:43:07,219 - INFO - Found 3 files for date 20251009
+2025-11-28 10:43:07,581 - INFO - Successfully downloaded: do20251009p01.pdf
+2025-11-28 10:43:07,949 - INFO - Successfully downloaded: do20251009p02.pdf
+2025-11-28 10:43:08,326 - INFO - Successfully downloaded: do20251009p03.pdf
+2025-11-28 10:43:08,327 - INFO - Processing date: 20251010
+2025-11-28 10:43:08,392 - INFO - Found 5 files for date 20251010
+2025-11-28 10:43:08,673 - INFO - Successfully downloaded: do20251010p01.pdf
+2025-11-28 10:43:09,065 - INFO - Successfully downloaded: do20251010p02.pdf
+2025-11-28 10:43:09,445 - INFO - Successfully downloaded: do20251010p03.pdf
+2025-11-28 10:43:09,822 - INFO - Successfully downloaded: do20251010p04.pdf
+2025-11-28 10:43:10,227 - INFO - Successfully downloaded: do20251010p05.pdf
+2025-11-28 10:43:10,227 - INFO - Processing date: 20251011
+2025-11-28 10:43:10,302 - INFO - No publications found for date 20251011
+2025-11-28 10:43:10,302 - INFO - Processing date: 20251012
+2025-11-28 10:43:10,357 - INFO - No publications found for date 20251012
+2025-11-28 10:43:10,357 - INFO - Processing date: 20251013
+2025-11-28 10:43:10,410 - INFO - Found 3 files for date 20251013
+2025-11-28 10:43:10,725 - INFO - Successfully downloaded: do20251013p01.pdf
+2025-11-28 10:43:11,011 - INFO - Successfully downloaded: do20251013p02.pdf
+2025-11-28 10:43:11,334 - INFO - Successfully downloaded: do20251013p03.pdf
+2025-11-28 10:43:11,334 - INFO - Processing date: 20251014
+2025-11-28 10:43:11,383 - INFO - Found 3 files for date 20251014
+2025-11-28 10:43:11,726 - INFO - Successfully downloaded: do20251014p01.pdf
+2025-11-28 10:43:12,081 - INFO - Successfully downloaded: do20251014p02.pdf
+2025-11-28 10:43:12,461 - INFO - Successfully downloaded: do20251014p03.pdf
+2025-11-28 10:43:12,461 - INFO - Processing date: 20251015
+2025-11-28 10:43:12,509 - INFO - Found 3 files for date 20251015
+2025-11-28 10:43:12,868 - INFO - Successfully downloaded: do20251015p01.pdf
+2025-11-28 10:43:13,317 - INFO - Successfully downloaded: do20251015p02.pdf
+2025-11-28 10:43:13,765 - INFO - Successfully downloaded: do20251015p03.pdf
+2025-11-28 10:43:13,765 - INFO - Processing date: 20251016
+2025-11-28 10:43:13,816 - INFO - Found 3 files for date 20251016
+2025-11-28 10:43:14,219 - INFO - Successfully downloaded: do20251016p01.pdf
+2025-11-28 10:43:15,246 - INFO - Successfully downloaded: do20251016p02.pdf
+2025-11-28 10:43:15,609 - INFO - Successfully downloaded: do20251016p03.pdf
+2025-11-28 10:43:15,609 - INFO - Processing date: 20251017
+2025-11-28 10:43:15,682 - INFO - Found 3 files for date 20251017
+2025-11-28 10:43:16,027 - INFO - Successfully downloaded: do20251017p01.pdf
+2025-11-28 10:43:16,377 - INFO - Successfully downloaded: do20251017p02.pdf
+2025-11-28 10:43:16,743 - INFO - Successfully downloaded: do20251017p03.pdf
+2025-11-28 10:43:16,744 - INFO - Processing date: 20251018
+2025-11-28 10:43:16,830 - INFO - No publications found for date 20251018
+2025-11-28 10:43:16,831 - INFO - Processing date: 20251019
+2025-11-28 10:43:16,872 - INFO - No publications found for date 20251019
+2025-11-28 10:43:16,872 - INFO - Processing date: 20251020
+2025-11-28 10:43:16,927 - INFO - Found 3 files for date 20251020
+2025-11-28 10:43:17,483 - INFO - Successfully downloaded: do20251020p01.pdf
+2025-11-28 10:43:17,968 - INFO - Successfully downloaded: do20251020p02.pdf
+2025-11-28 10:43:18,286 - INFO - Successfully downloaded: do20251020p03.pdf
+2025-11-28 10:43:18,286 - INFO - Processing date: 20251021
+2025-11-28 10:43:18,348 - INFO - Found 3 files for date 20251021
+2025-11-28 10:43:18,674 - INFO - Successfully downloaded: do20251021p01.pdf
+2025-11-28 10:43:19,026 - INFO - Successfully downloaded: do20251021p02.pdf
+2025-11-28 10:43:19,317 - INFO - Successfully downloaded: do20251021p03.pdf
+2025-11-28 10:43:19,317 - INFO - Processing date: 20251022
+2025-11-28 10:43:19,395 - INFO - Found 3 files for date 20251022
+2025-11-28 10:43:19,783 - INFO - Successfully downloaded: do20251022p01.pdf
+2025-11-28 10:43:20,111 - INFO - Successfully downloaded: do20251022p02.pdf
+2025-11-28 10:43:20,566 - INFO - Successfully downloaded: do20251022p03.pdf
+2025-11-28 10:43:20,566 - INFO - Processing date: 20251023
+2025-11-28 10:43:20,619 - INFO - Found 2 files for date 20251023
+2025-11-28 10:43:20,972 - INFO - Successfully downloaded: do20251023p01.pdf
+2025-11-28 10:43:21,386 - INFO - Successfully downloaded: do20251023p02.pdf
+2025-11-28 10:43:21,386 - INFO - Processing date: 20251024
+2025-11-28 10:43:21,461 - INFO - Found 4 files for date 20251024
+2025-11-28 10:43:21,768 - INFO - Successfully downloaded: do20251024p01.pdf
+2025-11-28 10:43:22,092 - INFO - Successfully downloaded: do20251024p02.pdf
+2025-11-28 10:43:22,403 - INFO - Successfully downloaded: do20251024p03.pdf
+2025-11-28 10:43:22,751 - INFO - Successfully downloaded: do20251024p04.pdf
+2025-11-28 10:43:22,751 - INFO - Processing date: 20251025
+2025-11-28 10:43:22,824 - INFO - No publications found for date 20251025
+2025-11-28 10:43:22,824 - INFO - Processing date: 20251026
+2025-11-28 10:43:22,870 - INFO - No publications found for date 20251026
+2025-11-28 10:43:22,870 - INFO - Processing date: 20251027
+2025-11-28 10:43:22,911 - INFO - No publications found for date 20251027
+2025-11-28 10:43:22,911 - INFO - Processing date: 20251028
+2025-11-28 10:43:22,956 - INFO - Found 3 files for date 20251028
+2025-11-28 10:43:23,277 - INFO - Successfully downloaded: do20251028p01.pdf
+2025-11-28 10:43:23,677 - INFO - Successfully downloaded: do20251028p02.pdf
+2025-11-28 10:43:23,966 - INFO - Successfully downloaded: do20251028p03.pdf
+2025-11-28 10:43:23,967 - INFO - Processing date: 20251029
+2025-11-28 10:43:24,012 - INFO - Found 3 files for date 20251029
+2025-11-28 10:43:24,322 - INFO - Successfully downloaded: do20251029p01.pdf
+2025-11-28 10:43:24,613 - INFO - Successfully downloaded: do20251029p02.pdf
+2025-11-28 10:43:24,873 - INFO - Successfully downloaded: do20251029p03.pdf
+2025-11-28 10:43:24,874 - INFO - Processing date: 20251030
+2025-11-28 10:43:24,950 - INFO - Found 3 files for date 20251030
+2025-11-28 10:43:25,328 - INFO - Successfully downloaded: do20251030p01.pdf
+2025-11-28 10:43:25,693 - INFO - Successfully downloaded: do20251030p02.pdf
+2025-11-28 10:43:26,069 - INFO - Successfully downloaded: do20251030p03.pdf
+2025-11-28 10:43:26,069 - INFO - Processing date: 20251031
+2025-11-28 10:43:26,117 - INFO - Found 3 files for date 20251031
+2025-11-28 10:43:26,434 - INFO - Successfully downloaded: do20251031p01.pdf
+2025-11-28 10:43:26,771 - INFO - Successfully downloaded: do20251031p02.pdf
+2025-11-28 10:43:27,133 - INFO - Successfully downloaded: do20251031p03.pdf
+2025-11-28 10:43:27,133 - INFO - Processing date: 20251101
+2025-11-28 10:43:27,186 - INFO - No publications found for date 20251101
+2025-11-28 10:43:27,186 - INFO - Processing date: 20251102
+2025-11-28 10:43:27,238 - INFO - No publications found for date 20251102
+2025-11-28 10:43:27,238 - INFO - Processing date: 20251103
+2025-11-28 10:43:27,288 - INFO - Found 2 files for date 20251103
+2025-11-28 10:43:27,708 - INFO - Successfully downloaded: do20251103p01.pdf
+2025-11-28 10:43:28,796 - INFO - Successfully downloaded: do20251103p02.pdf
+2025-11-28 10:43:28,796 - INFO - Processing date: 20251104
+2025-11-28 10:43:28,849 - INFO - Found 3 files for date 20251104
+2025-11-28 10:43:29,176 - INFO - Successfully downloaded: do20251104p01.pdf
+2025-11-28 10:43:29,531 - INFO - Successfully downloaded: do20251104p02.pdf
+2025-11-28 10:43:29,837 - INFO - Successfully downloaded: do20251104p03.pdf
+2025-11-28 10:43:29,837 - INFO - Processing date: 20251105
+2025-11-28 10:43:29,915 - INFO - Found 3 files for date 20251105
+2025-11-28 10:43:30,300 - INFO - Successfully downloaded: do20251105p01.pdf
+2025-11-28 10:43:30,699 - INFO - Successfully downloaded: do20251105p02.pdf
+2025-11-28 10:43:31,017 - INFO - Successfully downloaded: do20251105p03.pdf
+2025-11-28 10:43:31,017 - INFO - Processing date: 20251106
+2025-11-28 10:43:31,070 - INFO - Found 4 files for date 20251106
+2025-11-28 10:43:31,397 - INFO - Successfully downloaded: do20251106p01.pdf
+2025-11-28 10:43:31,767 - INFO - Successfully downloaded: do20251106p02.pdf
+2025-11-28 10:43:32,070 - INFO - Successfully downloaded: do20251106p03.pdf
+2025-11-28 10:43:32,411 - INFO - Successfully downloaded: do20251106p04.pdf
+2025-11-28 10:43:32,412 - INFO - Processing date: 20251107
+2025-11-28 10:43:32,487 - INFO - Found 5 files for date 20251107
+2025-11-28 10:43:33,157 - INFO - Successfully downloaded: do20251107p01.pdf
+2025-11-28 10:43:33,663 - INFO - Successfully downloaded: do20251107p02.pdf
+2025-11-28 10:43:34,234 - INFO - Successfully downloaded: do20251107p03.pdf
+2025-11-28 10:43:34,584 - INFO - Successfully downloaded: do20251107p04.pdf
+2025-11-28 10:43:34,999 - INFO - Successfully downloaded: do20251107p05.pdf
+2025-11-28 10:43:34,999 - INFO - Processing date: 20251108
+2025-11-28 10:43:35,044 - INFO - No publications found for date 20251108
+2025-11-28 10:43:35,044 - INFO - Processing date: 20251109
+2025-11-28 10:43:35,116 - INFO - No publications found for date 20251109
+2025-11-28 10:43:35,116 - INFO - Processing date: 20251110
+2025-11-28 10:43:35,162 - INFO - Found 3 files for date 20251110
+2025-11-28 10:43:35,475 - INFO - Successfully downloaded: do20251110p01.pdf
+2025-11-28 10:43:35,774 - INFO - Successfully downloaded: do20251110p02.pdf
+2025-11-28 10:43:36,135 - INFO - Successfully downloaded: do20251110p03.pdf
+2025-11-28 10:43:36,136 - INFO - Processing date: 20251111
+2025-11-28 10:43:36,209 - INFO - Found 2 files for date 20251111
+2025-11-28 10:43:36,555 - INFO - Successfully downloaded: do20251111p01.pdf
+2025-11-28 10:43:36,985 - INFO - Successfully downloaded: do20251111p02.pdf
+2025-11-28 10:43:36,985 - INFO - Processing date: 20251112
+2025-11-28 10:43:37,071 - INFO - Found 4 files for date 20251112
+2025-11-28 10:43:37,440 - INFO - Successfully downloaded: do20251112p01.pdf
+2025-11-28 10:43:37,758 - INFO - Successfully downloaded: do20251112p02.pdf
+2025-11-28 10:43:38,052 - INFO - Successfully downloaded: do20251112p03.pdf
+2025-11-28 10:43:38,418 - INFO - Successfully downloaded: do20251112p04.pdf
+2025-11-28 10:43:38,419 - INFO - Processing date: 20251113
+2025-11-28 10:43:38,478 - INFO - Found 3 files for date 20251113
+2025-11-28 10:43:38,820 - INFO - Successfully downloaded: do20251113p01.pdf
+2025-11-28 10:43:39,176 - INFO - Successfully downloaded: do20251113p02.pdf
+2025-11-28 10:43:39,561 - INFO - Successfully downloaded: do20251113p03.pdf
+2025-11-28 10:43:39,562 - INFO - Processing date: 20251114
+2025-11-28 10:43:39,654 - INFO - Found 3 files for date 20251114
+2025-11-28 10:43:40,013 - INFO - Successfully downloaded: do20251114p01.pdf
+2025-11-28 10:43:40,334 - INFO - Successfully downloaded: do20251114p02.pdf
+2025-11-28 10:43:40,921 - INFO - Successfully downloaded: do20251114p03.pdf
+2025-11-28 10:43:40,921 - INFO - Processing date: 20251115
+2025-11-28 10:43:40,972 - INFO - No publications found for date 20251115
+2025-11-28 10:43:40,972 - INFO - Processing date: 20251116
+2025-11-28 10:43:41,021 - INFO - No publications found for date 20251116
+2025-11-28 10:43:41,021 - INFO - Processing date: 20251117
+2025-11-28 10:43:41,092 - INFO - Found 3 files for date 20251117
+2025-11-28 10:43:41,448 - INFO - Successfully downloaded: do20251117p01.pdf
+2025-11-28 10:43:41,856 - INFO - Successfully downloaded: do20251117p02.pdf
+2025-11-28 10:43:42,297 - INFO - Successfully downloaded: do20251117p03.pdf
+2025-11-28 10:43:42,298 - INFO - Processing date: 20251118
+2025-11-28 10:43:42,353 - INFO - Found 3 files for date 20251118
+2025-11-28 10:43:42,954 - INFO - Successfully downloaded: do20251118p01.pdf
+2025-11-28 10:43:43,373 - INFO - Successfully downloaded: do20251118p02.pdf
+2025-11-28 10:43:43,749 - INFO - Successfully downloaded: do20251118p03.pdf
+2025-11-28 10:43:43,749 - INFO - Processing date: 20251119
+2025-11-28 10:43:43,796 - INFO - Found 3 files for date 20251119
+2025-11-28 10:43:44,490 - INFO - Successfully downloaded: do20251119p01.pdf
+2025-11-28 10:43:44,878 - INFO - Successfully downloaded: do20251119p02.pdf
+2025-11-28 10:43:45,591 - INFO - Successfully downloaded: do20251119p03.pdf
+2025-11-28 10:43:45,591 - INFO - Processing date: 20251120
+2025-11-28 10:43:45,659 - INFO - No publications found for date 20251120
+2025-11-28 10:43:45,659 - INFO - Processing date: 20251121
+2025-11-28 10:43:45,711 - INFO - Found 3 files for date 20251121
+2025-11-28 10:43:46,066 - INFO - Successfully downloaded: do20251121p01.pdf
+2025-11-28 10:43:46,449 - INFO - Successfully downloaded: do20251121p02.pdf
+2025-11-28 10:43:46,952 - INFO - Successfully downloaded: do20251121p03.pdf
+2025-11-28 10:43:46,952 - INFO - Processing date: 20251122
+2025-11-28 10:43:47,006 - INFO - No publications found for date 20251122
+2025-11-28 10:43:47,007 - INFO - Processing date: 20251123
+2025-11-28 10:43:47,053 - INFO - No publications found for date 20251123
+2025-11-28 10:43:47,053 - INFO - Processing date: 20251124
+2025-11-28 10:43:47,165 - INFO - Found 3 files for date 20251124
+2025-11-28 10:43:47,604 - INFO - Successfully downloaded: do20251124p01.pdf
+2025-11-28 10:43:48,073 - INFO - Successfully downloaded: do20251124p02.pdf
+2025-11-28 10:43:48,409 - INFO - Successfully downloaded: do20251124p03.pdf
+2025-11-28 10:43:48,409 - INFO - Processing date: 20251125
+2025-11-28 10:43:48,462 - INFO - Found 3 files for date 20251125
+2025-11-28 10:43:48,758 - INFO - Successfully downloaded: do20251125p01.pdf
+2025-11-28 10:43:49,064 - INFO - Successfully downloaded: do20251125p02.pdf
+2025-11-28 10:43:49,376 - INFO - Successfully downloaded: do20251125p03.pdf
+2025-11-28 10:43:49,377 - INFO - Processing date: 20251126
+2025-11-28 10:43:49,428 - INFO - Found 4 files for date 20251126
+2025-11-28 10:43:49,787 - INFO - Successfully downloaded: do20251126p01.pdf
+2025-11-28 10:43:50,096 - INFO - Successfully downloaded: do20251126p02.pdf
+2025-11-28 10:43:50,374 - INFO - Successfully downloaded: do20251126p03.pdf
+2025-11-28 10:43:50,663 - INFO - Successfully downloaded: do20251126p04.pdf
+2025-11-28 10:43:50,664 - INFO - Processing date: 20251127
+2025-11-28 10:43:50,712 - INFO - Found 2 files for date 20251127
+2025-11-28 10:43:51,325 - INFO - Successfully downloaded: do20251127p01.pdf
+2025-11-28 10:43:51,939 - INFO - Successfully downloaded: do20251127p02.pdf
+2025-11-28 10:43:51,940 - INFO - Processing date: 20251128
+2025-11-28 10:43:52,008 - INFO - No publications found for date 20251128
+2025-11-28 10:43:52,008 - INFO - Scraper finished
